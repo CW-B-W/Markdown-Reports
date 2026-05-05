@@ -177,9 +177,9 @@ SMR 核電供應鏈認證進度不明、AI 液冷特殊鋼需求規模未量化�
 
 ## 📂 深入參考
 
-- [專家共識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125857-5009/knowledge-report.md)
-- [財務指標報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125857-5009/information-report.md)
-- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125857-5009/data-report.md)
+- [專家共識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125857-5009/knowledge-report.md)
+- [財務指標報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125857-5009/information-report.md)
+- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125857-5009/data-report.md)
 
 ---
 

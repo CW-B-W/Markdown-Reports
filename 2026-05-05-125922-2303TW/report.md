@@ -167,9 +167,9 @@ SMIC、華虹等中國晶圓代工廠大規模擴產成熟製程，2026-2027 年
 ---
 
 ## 📂 深入參考
-- [專家共識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125922-2303TW/knowledge-report.md)
-- [財務指標報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125922-2303TW/information-report.md)
-- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-125922-2303TW/data-report.md)
+- [專家共識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125922-2303TW/knowledge-report.md)
+- [財務指標報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125922-2303TW/information-report.md)
+- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-125922-2303TW/data-report.md)
 
 ---
 

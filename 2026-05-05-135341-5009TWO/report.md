@@ -9,9 +9,9 @@
 
 ## 📂 深入參考
 
-- [知識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-135341-5009TWO/knowledge-report.md)
-- [資訊報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-135341-5009TWO/information-report.md)
-- [數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-135341-5009TWO/data-report.md)
+- [知識報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-135341-5009TWO/knowledge-report.md)
+- [資訊報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-135341-5009TWO/information-report.md)
+- [數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-135341-5009TWO/data-report.md)
 
 ---
 

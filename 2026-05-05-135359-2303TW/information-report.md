@@ -8,7 +8,7 @@
 ---
 
 ## 📂 深入參考
-- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/reports/2026-05-05-135359-2303TW/data-report.md)
+- [原始數據報告](https://github.com/CW-B-W/Markdown-Reports/blob/main/2026-05-05-135359-2303TW/data-report.md)
 
 ---
 
