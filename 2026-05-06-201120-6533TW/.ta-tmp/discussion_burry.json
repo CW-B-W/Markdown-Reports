@@ -1,0 +1,77 @@
+{
+  "original_verdict": "{\"signal\":\"bearish\",\"confidence\":75,\"reasoning\":\"P/B 2.71x, DCF 62.84 vs 241.50. NCAV 5.86. No asset support. Rising short interest (SBL 8.35%). Revenue decelerating. Potential -74% downside.\"}",
+  "all_verdicts": [
+    {
+      "expert": "Warren Buffett",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "TTM EPS -8.19, P/S 8.28x, DCF intrinsic NT$62.84 vs price NT$241.50 (284% premium). No margin of safety, unprofitable, unclear moat."
+    },
+    {
+      "expert": "Ben Graham",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "No earnings stability (EPS -8.19), PB 2.71 > 2.5, DCF 62.84 vs 241.50, NCAV only 5.86. Zero margin of safety. Inconsistent dividends."
+    },
+    {
+      "expert": "Peter Lynch",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "TTM EPS -8.19, no PEG computable. Revenue +53% but no earnings growth. P/S 8.28x too high. Strong balance sheet but no profits."
+    },
+    {
+      "expert": "Mohnish Pabrai",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "Not distressed industry, unclear moat, zero margin of safety (DCF 62.84 vs 241.50). TTM EPS -8.19. Competition from ARM/SiFive."
+    },
+    {
+      "expert": "Ray Dalio",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "RISC-V productivity tailwind (+53.4% revenue growth) but current losses (EPS -8.19) and extreme valuation (P/S 8.28x) offset gains. Taiwan geopolitical risk."
+    },
+    {
+      "expert": "Charlie Munger",
+      "signal": "bearish",
+      "confidence": 75,
+      "reasoning": "Not a wonderful business at fair price. TTM EPS -8.19, P/S 8.28x, DCF 62.84. RISC-V open standard limits moat. RSI 66.8 near overbought after 38.4% surge."
+    },
+    {
+      "expert": "Stanley Druckenmiller",
+      "signal": "bearish",
+      "confidence": 40,
+      "reasoning": "Growth decelerating from +53.4% to +24.7%. Extreme valuation (P/S 8.28x). Rising short interest. Risk/reward negative after 38.4% monthly surge."
+    },
+    {
+      "expert": "Bill Ackman",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "Overvalued (DCF 62.84 vs 241.50), unprofitable, no activist catalyst. Technical momentum positive but no fundamental support. Uninvestable for long."
+    },
+    {
+      "expert": "David Tepper",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "No distress pricing after 38.4% rally. DCF 62.84 vs 241.50. No clear catalyst for monthly horizon. Asymmetry not >3:1. Short interest rising."
+    },
+    {
+      "expert": "George Soros",
+      "signal": "bearish",
+      "confidence": 70,
+      "reasoning": "Narrative-driven rally (38.4%) unsupported by earnings (EPS -8.19). P/S 8.28x. Short sellers building (SBL 8.35%). Late in speculative boom, inflection near."
+    },
+    {
+      "expert": "Bullish Advocate",
+      "signal": "bullish",
+      "confidence": 62,
+      "reasoning": "Revenue +53.4% YoY, strong gross margin 99.95%. Technicals positive (MACD, SMA20/50 above). Forward PE 28.94x acceptable for growth. RISC-V adoption catalyst."
+    },
+    {
+      "expert": "Bearish Advocate",
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "Revenue decelerating (53.4%→24.7%). TTM EPS -8.19. DCF 62.84 vs 241.50 (284% premium). RSI 66.8 near overbought, death cross SMA50/SMA200. 74% downside risk to DCF."
+    }
+  ]
+}

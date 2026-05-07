@@ -1,0 +1,17 @@
+{
+  "ticker": "6533.TW",
+  "eps": -8.19,
+  "bvps": 89.14,
+  "shares_outstanding": 50650911,
+  "curr_price": 241.50,
+  "current_assets": 2174815000,
+  "total_liabilities": 1878209000,
+  "net_income": -415259000,
+  "depreciation": 200120000,
+  "maintenance_capex": -26619000,
+  "working_capital_change": 0,
+  "fcff": 209557000,
+  "growth_rate": 0.05,
+  "pe_ratio": 0,
+  "eps_growth_rate": 0.08
+}

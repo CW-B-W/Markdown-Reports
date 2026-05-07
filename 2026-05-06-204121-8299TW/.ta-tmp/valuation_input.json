@@ -1,0 +1,17 @@
+{
+  "ticker": "8299.TW",
+  "eps": 41.96,
+  "bvps": 271.88,
+  "shares_outstanding": 221085747,
+  "curr_price": 2325.0,
+  "current_assets": 68479676000,
+  "total_liabilities": 25647605000,
+  "net_income": 8741175000,
+  "depreciation": 755083000,
+  "maintenance_capex": 1396629000,
+  "working_capital_change": 0,
+  "fcff": 200913000,
+  "growth_rate": 0.15,
+  "pe_ratio": 55.38,
+  "eps_growth_rate": 0.10
+}

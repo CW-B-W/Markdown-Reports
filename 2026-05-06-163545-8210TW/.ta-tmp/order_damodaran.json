@@ -1,0 +1,32 @@
+{
+  "expert": "Aswath Damodaran",
+  "expert_key": "damodaran",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "revenue_growth",
+    "eps_growth",
+    "roe",
+    "operating_margin",
+    "debt_to_equity",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "capital_expenditure",
+    "depreciation_and_amortization",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "risk_free_rate",
+    "equity_risk_premium",
+    "country_risk_premium",
+    "mature_growth_rate",
+    "cost_of_capital",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"stock_price\", \"shares_outstanding\", \"risk_free_rate\", \"equity_risk_premium\", \"beta\", \"cost_of_debt\", \"tax_rate\", \"industry_growth_rate\", \"analyst_revenue_estimates\", \"analyst_eps_estimates\", \"dividend_yield\"]}",
+  "error": null
+}

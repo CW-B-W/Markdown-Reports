@@ -1,0 +1,28 @@
+{
+  "expert": "Mohnish Pabrai",
+  "expert_key": "pabrai",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "roe",
+    "debt_to_equity",
+    "revenue_growth",
+    "eps_growth",
+    "current_ratio",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "management_checklist",
+    "moat_assessment",
+    "clone_analysis",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"business description and industry classification\",\n    \"competitive advantages and durability of moat\",\n    \"market share and major competitors\",\n    \"insider ownership percentage\",\n    \"owner earnings (adjusted free cash flow)\",\n    \"normalized free cash flow history\",\n    \"intrinsic value estimate and growth assumptions\",\n    \"industry sentiment and outlook\",\n    \"management capital allocation track record\",\n    \"key business risks\"\n  ]\n}",
+  "error": null
+}

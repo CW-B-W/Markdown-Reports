@@ -1,0 +1,105 @@
+{
+  "expert": "Bullish Advocate",
+  "expert_key": "bullish",
+  "original_verdict": "{\n  \"ANALYSIS PROCESS\": \"First, I examine the revenue growth trajectory: Q1 2026 revenue up 35.1% YoY, April revenue +18.77% YoY and +30.7% MoM, Q2 2026 USD revenue guidance implies 7-10% QoQ growth, and full-year 2026 guidance of >30% growth in USD. This is extremely robust. Earnings momentum is strong with TTM EPS of NT$66.26 and forward EPS of ~NT$100, indicating massive growth; Q4 2025 gross margin hit 62.3% and Q2 2026 guidance shows 65.5-67.5%, driving further margin expansion. Valuation: TTM P/E of 33.97x seems high, but forward P/E of ~22x is reasonable for >30% growth; PEG using 25% EPS growth is 1.36x, but with actual >30% growth it would be even lower, suggesting undervaluation. Technicals: price well above SMA20, MACD bullish and expanding, RSI 64.2 not overbought, near-term momentum strong. Catalysts: AI demand called 'extremely robust' by CEO, 2nm ramp, monthly revenue records. Market positioning: TSMC is the undisputed leader with irreplaceable technology. Best-case scenario: if AI demand intensifies and earnings beat the NT$100 consensus, forward P/E could expand to 25x, driving the stock above NT$2,500. Contradictions: foreign investors have been net sellers YTD, and the stock is near its 52-week high after a 26% monthly surge, raising short-term consolidation risk. However, domestic buying absorbs selling, and low margin debt indicates retail participation is not frothy. The TWD appreciation is a minor headwind but manageable. Given the growth-adjusted valuation, I lean strongly bullish.\",\n  \"VERDICT\": {\n    \"Signal\": \"bullish\",\n    \"Confidence\": 85,\n    \"Reasoning\": \"TSMC's forward P/E of 22x is inexpensive for a company guiding >30% revenue growth, with PEG well below 1.5x. Q2 2026 gross margin guidance of 65.5-67.5% implies further operating leverage from the current 62.3%. Q1 2026 revenue surged 35.1% YoY, and management projects Q2 sequential growth of 7-10% in USD, signaling sustained momentum. Technicals confirm a strong uptrend: MACD at +68.15 and price 6.9% above the 20-day SMA, with RSI at 64.2 still offering room before overbought. The best-case scenario is that AI demand leads to earnings beats above the NT$100 consensus, re-rating the multiple to 25x and yielding a target near NT$2,500-2,600. Despite foreign selling, domestic institutional buying and extremely low margin debt suggest the rally has headroom. Main risks are profit-taking near the NT$2,330 high and geopolitical uncertainty, but the growth-adjusted valuation more than compensates. A monthly outlook of NT$2,100-2,400 with an upward bias is supported by fundamentals and catalysts.\"\n  }\n}",
+  "all_verdicts": [
+    {
+      "expert": "Warren Buffett",
+      "expert_key": "buffett",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "TSMC is a phenomenal business with a bulletproof balance sheet (net cash NT$1.87T), 31.4% ROE, and explosive AI-driven growth. However, at NT$2,250, the stock trades at a massive premium to conservative intrinsic value (DCF NT$881, Owner Earnings NT$43.29 per share), offering zero margin of safety. Forward P/E of 22x is not excessive, but near the 52-week high of NT$2,330 and with negative owner earnings yield, the risk/reward is unattractive for a value-oriented purchase. Long-term prospects remain bright, yet for a one-month view, the price may consolidate or pull back given overbought signals (RSI 64.2) and foreign selling (70.65% stake, down from 73.57%). I remain neutral, preferring to wait for a significant correction before committing capital."
+    },
+    {
+      "expert": "Peter Lynch",
+      "expert_key": "lynch",
+      "signal": "bullish",
+      "confidence": 95,
+      "reasoning": "TSMC is an easily understandable semiconductor foundry. EPS growth is explosive: TTM EPS NT$66.26, consensus FY2026 EPS ~NT$100, representing roughly 51% growth. Forward P/E is 22x, giving a PEG of just 0.43, dramatically below 1.0. The company guides >30% revenue growth (USD) for FY2026, with Q1 2026 revenue already +35.1% YoY. ROE is an exceptional 31.4% and net cash position is NT$1.87 trillion, showing fortress finances. It"
+    },
+    {
+      "expert": "Ben Graham",
+      "expert_key": "graham",
+      "signal": "unclear",
+      "confidence": 95,
+      "reasoning": "{\n  \"analysis_process\": \"First, examine Graham's core criteria. Earnings stability: implied by consistent profitability, ROE 31.41%, strong quarters. Financial strength: net cash NT$1.87 trillion, zero net debt, very liquid—passes. Valuation: TTM P/E 33.97x (>15), P/B 10.77x (>1.5), Graham Number NT$560 vs price NT$2,250—all fail dramatically. Margin of safety: none; price exceeds all intrinsic value measures, even aggressive DCF (NT$881). Dividend record: consistent but yield only 0.98%. Growth..."
+    },
+    {
+      "expert": "Ray Dalio",
+      "expert_key": "dalio",
+      "signal": "bullish",
+      "confidence": 75,
+      "reasoning": "TSMC is riding an AI-driven productivity wave with Q2 revenue guidance up to US$40.2B and gross margins reaching 67.5%. Q1 revenue grew 35.1% YoY. Forward P/E of 22x is not stretched against >30% EPS growth. The company"
+    },
+    {
+      "expert": "Cathie Wood",
+      "expert_key": "wood",
+      "signal": "unclear",
+      "confidence": 60,
+      "reasoning": "{\n  \"analysis_process\": \"As Cathie Wood, I evaluate TSMC through the lens of disruptive innovation and platform effects. The data shows strong AI-driven demand with Q1 2026 YoY revenue growth of 35.1%, gross margins reaching 62.3%, and FY2026 revenue guidance of >30% growth. TSMC’s advanced nodes enable transformative technologies, and the semiconductor TAM is massive. However, TSMC lacks traditional platform or network effects—it’s a capital-intensive manufacturer, not a software-centric disrup..."
+    },
+    {
+      "expert": "Mohnish Pabrai",
+      "expert_key": "pabrai",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "TSMC fails the Pabrai Dhandho checklist on multiple fronts. The business is capital-intensive and technologically complex, not an easy-to-understand simple business. The semiconductor industry is booming with AI demand, far from distressed or ignored, evident in 30.7% MoM revenue growth and >30% FY2026 guidance. While the moat is durable and competition minimal, the critical margin of safety is absent. Intrinsic value via conservative DCF (15% growth, 10% discount) is NT$881, yet the stock trades at NT$2,250 — a 155% premium. TTM P/E of 33.97 and P/B of 10.77 confirm severe overvaluation relative to any Dhandho framework. Even forward P/E of 22x offers no >50% discount. With RSI at 64 near overbought, 40.5% volatility, and foreign ownership declining, the setup is speculative. Buffett and "
+    },
+    {
+      "expert": "Joel Greenblatt",
+      "expert_key": "greenblatt",
+      "signal": "bearish",
+      "confidence": 35,
+      "reasoning": "The earnings yield (EBIT/EV) is approximately 3.8%, based on estimated EBIT of NT$2.15T against EV of NT$56.48T. This is well below my 8% threshold and even the 4% bearish trigger. TTM P/E of 34x and FCF yield of 1.72% confirm extreme valuation. Although ROC is outstanding—ROA 21.6%, ROE 31.4%—the magic formula demands both high ROC and high earnings yield. With yield this low, the stock scores poorly on my combined rank. The price has rallied 151% from its 52-week low and sits just -3.4% off all-time highs, leaving little upside and significant downside risk. The consistent high ROC indicates a durable moat, but for a monthly outlook, the valuation compression risk is pronounced, warranting a bearish stance."
+    },
+    {
+      "expert": "Howard Marks",
+      "expert_key": "marks",
+      "signal": "bearish",
+      "confidence": 75,
+      "reasoning": "The risk premium is essentially absent — forward earnings yield of ~4.5% barely covers the 4.43% risk-free rate, meaning zero compensation for equity risk. Trailing P/E of 33.97x (earnings yield 2.94%) is below the risk-free rate, a classic sign of an overpriced asset. The stock has rallied 152% from its 52-week low to within 3.4% of its all-time high, reflecting extreme optimism that leaves little room for any disappointment. Foreign institutions have been net sellers of 356 million shares YTD, signaling that smart money views the risk/reward as unfavorable, even as domestic buyers keep driving the price up — a barbell of greed. While TSMC is a world-class company with a 31.4% ROE and strong AI demand, the price already discounts perfection, providing negligible margin of safety. In a lat"
+    },
+    {
+      "expert": "Michael Burry",
+      "expert_key": "burry",
+      "signal": "neutral",
+      "confidence": 50,
+      "reasoning": "{\n  \"analysis_process\": \"Examine data: TSMC trading near all-time high, up 26% in past month, P/E 34x TTM, forward 22x. DCF intrinsic value ~NT$881-1400, so market price implies aggressive growth. Foreign investors have been net sellers, yet stock rose due to domestic buying. Technicals bullish but extended. No deep value; the stock is a premium growth play. Contrarian signal: market consensus extremely bullish on AI, while smart money (foreign) reducing. Asymmetry poor: upside to 52w high NT$23..."
+    },
+    {
+      "expert": "George Soros",
+      "expert_key": "soros",
+      "signal": "bullish",
+      "confidence": 82,
+      "reasoning": "TSMC is in a classic self-reinforcing boom fueled by the AI narrative. Earnings are accelerating: Q1 2026 revenue hit NT$1,134B (+35% YoY), April revenue a record NT$415.19B (+18.8% YoY), and Q2 guidance projects sequential growth and gross margins of 65.5-67.5%. The stock has surged 151% from its 52-week low to NT$2,250, yet forward P/E of 22x against 30%+ growth yields a PEG of 1.36, far from bubble territory. Technicals confirm strong momentum: MACD is bullish at +68.15, price stands 6.9% above the 20-day moving average, and RSI 64.2 leaves room before overbought. Foreign selling (YTD -356M shares) is absorbed by domestic demand, indicating narrative resilience. While near-term risks include proximity to the NT$2,330 high, currency appreciation, and geopolitical tensions, the reflexivit"
+    },
+    {
+      "expert": "Jim Simons",
+      "expert_key": "simons",
+      "signal": "bullish",
+      "confidence": 80,
+      "reasoning": "Momentum is strongly positive: price at 2,250, +6.9% above SMA20 (2,105.25), MACD +68.15, RSI 64.2 not overbought. The 24.31% monthly gain and +26.1% from the March low confirm trend strength. While the stock is near its 52-week high of 2,330, it"
+    },
+    {
+      "expert": "Bill Ackman",
+      "expert_key": "ackman",
+      "signal": "neutral",
+      "confidence": 65,
+      "reasoning": "TSMC is a world-class business with ROE 31.4%, gross margin 62.3%, and Q1 revenue growth +35.1% YoY. However, at NT$2,250 and 34x TTM PE, it trades far above conservative DCF (NT$881) and Graham number (NT$560). Forward PE of ~22x is reasonable given >30% growth guidance, but offers no margin of safety. The stock is only 3.4% below its 52-week high of NT$2,330, with upside to NT$2,400 limited to ~6.7%. Foreign holdings have declined to 70.65% with continued selling. Near-term catalysts are sparse: Q2 earnings are weeks away, and macro risks (NT dollar at 30.23, geopolitics) persist. A quality compounder, but fairly valued and lacking an actionable catalyst for a 30%+ return in a monthly horizon."
+    },
+    {
+      "expert": "David Tepper",
+      "expert_key": "tepper",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "Stock near all-time high with symmetric risk/reward (upside ~6.7% to NT$2,400, downside ~6.7% to NT$2,100). No distress pricing; RSI 64.2, MACD bullish, fear absent. Forward P/E 22x prices in >30% growth, leaving limited re-rating upside. Foreign selling continues (356M shares YTD) despite price surge, signaling distribution. No clear macro catalyst next month: AI demand is known, Q2 guidance strong but expected. DCF with 15% growth yields NT$881, far below current price, suggesting overvaluation unless growth accelerates further. TWD appreciation (+8.8% since April) adds headwind. Volatility at 40.5% raises downside tail risk. Asymmetry ratio below 3:1, so no Tepper-style bullish thesis. However, fundamentals remain exceptional (ROE 31.4%, margins expanding), preventing outright bearish c"
+    },
+    {
+      "expert": "Bearish Advocate",
+      "expert_key": "bearish",
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "TTM P/E of 33.97x is near the top of its 5-year range and DCF analysis shows a 60% overvaluation even with a 15% growth rate (intrinsic value NT$881 vs price NT$2,250). The April 2026 revenue YoY growth of 18.77% marks a sharp deceleration from Q1"
+    }
+  ]
+}

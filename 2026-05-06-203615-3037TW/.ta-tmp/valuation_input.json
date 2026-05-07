@@ -1,0 +1,18 @@
+{
+  "ticker": "3037",
+  "eps": 7.06,
+  "bvps": 71.97,
+  "shares_outstanding": 1575531197,
+  "curr_price": 858.0,
+  "current_assets": 114144042000,
+  "total_liabilities": 149928398000,
+  "net_income": 12007667000,
+  "depreciation": 5028761000,
+  "maintenance_capex": 5474709000,
+  "working_capital_change": 0,
+  "fcff": 357961000,
+  "growth_rate": 0.15,
+  "pe_ratio": 126.18,
+  "eps_growth_rate": 15.0,
+  "market_cap": 1351805767026.0
+}

@@ -1,0 +1,30 @@
+{
+  "expert": "Michael Burry",
+  "expert_key": "burry",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "debt_to_equity",
+    "current_ratio",
+    "revenue_growth",
+    "eps_growth",
+    "roe",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "capital_expenditure",
+    "depreciation_and_amortization",
+    "short_interest",
+    "insider_transactions",
+    "catalyst_timeline",
+    "liquidation_value",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"short_interest_ratio\",\n    \"insider_ownership_percentage\",\n    \"cash_and_equivalents_per_share\",\n    \"goodwill_and_intangibles_to_total_assets\",\n    \"operating_cash_flow\",\n    \"upcoming_earnings_or_catalyst_date\",\n    \"dividend_yield\"\n  ]\n}",
+  "error": null
+}

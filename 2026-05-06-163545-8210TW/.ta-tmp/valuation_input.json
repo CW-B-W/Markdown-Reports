@@ -1,0 +1,17 @@
+{
+  "ticker": "8210",
+  "eps": 29.02,
+  "bvps": 86.87,
+  "shares_outstanding": 125302665,
+  "curr_price": 1325.0,
+  "current_assets": 16583214000,
+  "total_liabilities": 12379647000,
+  "net_income": 3558344000,
+  "depreciation": 387202000,
+  "maintenance_capex": 2417574000,
+  "working_capital_change": 0,
+  "fcff": 5742974000,
+  "growth_rate": 0.20,
+  "pe_ratio": 46.65,
+  "eps_growth_rate": 20.0
+}

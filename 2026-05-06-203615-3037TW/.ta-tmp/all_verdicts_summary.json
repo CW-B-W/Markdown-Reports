@@ -1,0 +1,100 @@
+[
+  {
+    "expert": "Peter Lynch",
+    "key": "lynch",
+    "signal": "bearish",
+    "confidence": 95,
+    "reasoning_snippet": "PEG ratio of 8.41 (PE 126.18x / 15% growth) is far beyond Lynch’s 2.0 threshold, signaling severe overvaluation. Graham Number is just NT$106.92 versus market price NT$858, an 8x gap. FCF remains nega"
+  },
+  {
+    "expert": "Ben Graham",
+    "key": "graham",
+    "signal": "bearish",
+    "confidence": 95,
+    "reasoning_snippet": "The PE of 126.18 and PB of 12.02 are drastically above Graham's limits. Graham Number of NT$106.92 implies a 702% overvaluation. NCAV is negative, providing no asset protection. Current ratio of 1.32 "
+  },
+  {
+    "expert": "Bearish Advocate",
+    "key": "bearish",
+    "signal": "bearish",
+    "confidence": 95,
+    "reasoning_snippet": "The stock is dangerously overvalued with P/E 126x, PB 12x, and PEG 8.4 – all screaming extreme. Graham Number NT$106.92 means 702% premium to rational value. RSI 78 signals imminent mean-reversion aft"
+  },
+  {
+    "expert": "Warren Buffett",
+    "key": "buffett",
+    "signal": "bearish",
+    "confidence": 95,
+    "reasoning_snippet": "Unimicron's Q1 2026 EPS of NT$3.28 and revenue growth of 24.5% demonstrate improving fundamentals, but the stock has surged 65% in one month to NT$858, driving P/E to 126.18 and P/B to 12.02—levels co"
+  },
+  {
+    "expert": "Charlie Munger",
+    "key": "munger",
+    "signal": "bearish",
+    "confidence": 90,
+    "reasoning_snippet": "At a PE of 126x and a Graham Number of NT$106.92 versus price NT$858—an 8x overvaluation—the stock is wildly overpriced. Even with a 15% EPS growth rate, PEG is 8.4, far above sanity. RSI at 78.4 indi"
+  },
+  {
+    "expert": "Bill Ackman",
+    "key": "ackman",
+    "signal": "bearish",
+    "confidence": 88,
+    "reasoning_snippet": "Unimicron trades at a staggering 126x PE, 12x PB, and PEG of 8.4—all extreme levels with zero margin of safety. The Graham Number of NT$106.92 implies a 702% overvaluation, and DCF yields only NT$5.18"
+  },
+  {
+    "expert": "Ray Dalio",
+    "key": "dalio",
+    "signal": "bearish",
+    "confidence": 85,
+    "reasoning_snippet": "PE of 126x and P/B of 12x are at historic extremes, far exceeding the Graham Number of NT$106.92. RSI at 78.4 indicates severe overbought conditions after a 65% monthly surge. Foreign investors have r"
+  },
+  {
+    "expert": "Michael Burry",
+    "key": "burry",
+    "signal": "bearish",
+    "confidence": 85,
+    "reasoning_snippet": "At NT$858, the stock trades at 126x trailing PE, a 4.7x multiple expansion from 27x in just 12 months. Graham Number is NT$107, meaning the market price is 8x the maximum value Graham would pay. Owner"
+  },
+  {
+    "expert": "Bullish Advocate",
+    "key": "bullish",
+    "signal": "bearish",
+    "confidence": 83,
+    "reasoning_snippet": "The monthly outlook is bearish. Revenue growth of 24.5% YoY and Q1 EPS of 3.28 demonstrate impressive operating momentum, but the stock's valuation is stretched beyond historical extremes: PE of 126x "
+  },
+  {
+    "expert": "Phil Fisher",
+    "key": "fisher",
+    "signal": "neutral",
+    "confidence": 60,
+    "reasoning_snippet": "The business is transforming into a growth powerhouse: revenue +24.5% YoY, net margin surged to 14.37% from near zero, and heavy capex (TTM -64.5B) signals deep commitment to ABF substrate leadership."
+  },
+  {
+    "expert": "Stanley Druckenmiller",
+    "key": "druckenmiller",
+    "signal": "neutral",
+    "confidence": 55,
+    "reasoning_snippet": "The investment thesis is torn between accelerating growth (EPS NT$3.28, revenue +24.5% YoY) and extreme overvaluation with deteriorating flows. PE of 126x and PEG of 8.4 discount perfection, while for"
+  },
+  {
+    "expert": "George Soros",
+    "key": "soros",
+    "signal": "unknown",
+    "confidence": null,
+    "reasoning_snippet": ""
+  },
+  {
+    "expert": "Cathie Wood",
+    "key": "wood",
+    "signal": "unknown",
+    "confidence": null,
+    "reasoning_snippet": ""
+  },
+  {
+    "expert": "Mohnish Pabrai",
+    "key": "pabrai",
+    "signal": "unknown",
+    "confidence": null,
+    "reasoning_snippet": ""
+  }
+]

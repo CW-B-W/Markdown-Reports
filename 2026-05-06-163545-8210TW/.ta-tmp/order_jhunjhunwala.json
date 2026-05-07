@@ -1,0 +1,30 @@
+{
+  "expert": "Rakesh Jhunjhunwala",
+  "expert_key": "jhunjhunwala",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "eps_growth",
+    "revenue_growth",
+    "roe",
+    "debt_to_equity",
+    "operating_margin",
+    "pb_ratio",
+    "revenue",
+    "net_income",
+    "earnings_per_share",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "market_share_trends",
+    "sector_growth_rate",
+    "management_quality",
+    "earnings_visibility",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"management_track_record\", \"promoter_shareholding\", \"industry_growth_rate\", \"market_share\", \"competitive_advantages\", \"future_growth_catalysts\", \"historical_pe_ratio_range\", \"peer_valuation_comparison\", \"debt_maturity_profile\", \"capital_allocation_strategy\", \"order_book_growth\", \"regulatory_risks\", \"any_corporate_governance_red_flags\"]}",
+  "error": null
+}

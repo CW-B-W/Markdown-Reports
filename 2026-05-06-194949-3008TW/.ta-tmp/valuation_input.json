@@ -1,0 +1,17 @@
+{
+  "ticker": "3008",
+  "eps": 157.76,
+  "bvps": 1398.18,
+  "shares_outstanding": 133468197,
+  "curr_price": 2520,
+  "current_assets": 159095122000,
+  "total_liabilities": 39762818000,
+  "net_income": 21193068000,
+  "depreciation": 7879633000,
+  "maintenance_capex": 11831386000,
+  "working_capital_change": 0,
+  "fcff": 33301000000,
+  "growth_rate": 0.03,
+  "pe_ratio": 15.73,
+  "eps_growth_rate": 0.10
+}

@@ -1,0 +1,79 @@
+{
+  "expert": "ackman",
+  "ticker": "2345.TW",
+  "period": "monthly",
+  "peer_verdicts": {
+    "wood": {
+      "signal": "neutral",
+      "confidence": 65,
+      "reasoning": "AI-driven network switching is transformative with massive TAM. Revenue grew 124.8% in 2025 but decelerating. As ODM, no platform effects, limiting defensibility. Valuation extreme. Neutral monthly."
+    },
+    "taleb": {
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "PE 52.73x extreme, DCF NT$997 vs NT$2,485. Fragile: any growth disappointment triggers correction. No embedded options. Asymmetry favors downside. Catastrophic tail risk."
+    },
+    "pabrai": {
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "Dhandho fail: hot sector, zero margin of safety. Price 2.5x intrinsic value. Buffett/Munger would avoid. Massive premium."
+    },
+    "munger": {
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "Grossly overpriced. Growth decelerating from +184.8% to +44.4%. No margin of safety. Good business but terrible price."
+    },
+    "lynch": {
+      "signal": "bearish",
+      "confidence": 75,
+      "reasoning": "PEG >2 even at 25% growth. Fast-grower but overpriced. Sell at current levels. Revenue deceleration warning."
+    },
+    "jhunjhunwala": {
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "Zero multibagger potential at TWD 1.39T market cap. DCF 2.5x overvalued. Revenue deceleration. Not a 10x story."
+    },
+    "graham": {
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "PE 52.7x vs 15x limit. PB 24.1x vs 1.5x limit. Graham Number 330 vs price 2,485. No margin of safety. Speculative."
+    },
+    "druckenmiller": {
+      "signal": "bearish",
+      "confidence": 65,
+      "reasoning": "Revenue growth deceleration triggers bearish. Favorable macro but growth rolling over. Valuation stretched."
+    },
+    "fisher": {
+      "signal": "neutral",
+      "confidence": 45,
+      "reasoning": "Incredible growth but margins slipping. Missing qualitative data on management and R&D. Low conviction."
+    },
+    "damodaran": {
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "DCF 997 vs 2,485. Only 20%+ sustained growth justifies price. Deceleration and high cost of capital make bearish."
+    },
+    "bullish": {
+      "signal": "bullish",
+      "confidence": 75,
+      "reasoning": "Forward PE 37.7x on EPS 66. DCF with 20% growth shows 34% upside. AI capex catalysts. Institutional buying. Momentum strong."
+    },
+    "burry": {
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "Extreme overvaluation, euphoric sentiment, contrarian bearish. Downside 60%+ if PE normalizes. No margin of safety."
+    },
+    "buffett": {
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "Exceptional business but profoundly overvalued. Zero margin of safety. Owner earnings yield 1.65%. Mean reversion risk."
+    },
+    "bearish": {
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "PE 52.73x, DCF 997, growth deceleration, margin compression, RSI overbought. Blow-off top. Downside skewed."
+    }
+  },
+  "total_experts": 15,
+  "consensus_summary": "12 bearish, 2 neutral, 1 bullish. Overwhelming consensus: extreme overvaluation, margin of safety absent, growth deceleration concern."
+}

@@ -1,0 +1,21 @@
+{
+  "expert": "Stanley Druckenmiller",
+  "expert_key": "druckenmiller",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "eps_growth",
+    "revenue_growth",
+    "operating_margin",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "outstanding_shares",
+    "price_momentum_indicators",
+    "volume_vs_avg",
+    "relative_strength_vs_market",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"institutional_ownership_flows\", \"forward_eps_estimates\", \"industry_pe_ratio\", \"short_interest\", \"earnings_revision_trend\", \"macro_indicators_gdp_growth\", \"interest_rates\", \"credit_spreads\", \"analyst_price_targets\", \"options_implied_volatility\"]}",
+  "error": null
+}

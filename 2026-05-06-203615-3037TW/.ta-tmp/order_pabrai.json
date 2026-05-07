@@ -1,0 +1,28 @@
+{
+  "expert": "Mohnish Pabrai",
+  "expert_key": "pabrai",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "roe",
+    "debt_to_equity",
+    "revenue_growth",
+    "eps_growth",
+    "current_ratio",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "management_checklist",
+    "moat_assessment",
+    "clone_analysis",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"industry_sector\", \"business_description\", \"major_competitors\", \"barriers_to_entry_or_moat_sources\", \"normalized_earnings_or_owner_earnings\", \"historical_pe_ratio_range\", \"historical_pb_ratio_range\", \"estimated_intrinsic_value\", \"free_cash_flow_yield\", \"insider_ownership_percentage\", \"promoter_track_record\", \"industry_pe_average\", \"dividend_yield\", \"stock_price_52_week_range\", \"revenue_and_earnings_visibility\"]}",
+  "error": null
+}

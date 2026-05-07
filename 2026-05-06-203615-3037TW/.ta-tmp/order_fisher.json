@@ -1,0 +1,28 @@
+{
+  "expert": "Phil Fisher",
+  "expert_key": "fisher",
+  "phase": "order",
+  "built_in_requirements": [
+    "revenue_growth",
+    "eps_growth",
+    "roe",
+    "operating_margin",
+    "gross_margin",
+    "pe_ratio",
+    "revenue",
+    "gross_profit",
+    "net_income",
+    "earnings_per_share",
+    "free_cash_flow",
+    "capital_expenditure",
+    "research_and_development",
+    "outstanding_shares",
+    "rd_to_revenue_ratio",
+    "customer_concentration",
+    "patent_portfolio",
+    "employee_growth",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"customer_satisfaction_scores\",\n    \"employee_turnover_rate\",\n    \"order_backlog_growth\",\n    \"market_share_trend\",\n    \"patent_filings_last_12_months\",\n    \"insider_trading_activity\",\n    \"management_shareholding_percent\",\n    \"industry_growth_forecast\",\n    \"percentage_revenue_from_new_products\"\n  ]\n}",
+  "error": null
+}

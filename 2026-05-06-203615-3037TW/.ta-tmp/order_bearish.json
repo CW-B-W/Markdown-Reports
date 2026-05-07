@@ -1,0 +1,24 @@
+{
+  "expert": "Bearish Advocate",
+  "expert_key": "bearish",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "eps_growth",
+    "revenue_growth",
+    "debt_to_equity",
+    "operating_margin",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "outstanding_shares",
+    "competitive_threats",
+    "regulatory_risks",
+    "industry_headwinds",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"price_to_book\", \"price_to_sales\", \"dividend_yield\", \"rsi_14\", \"sma_50\", \"sma_200\", \"volume_change_20d\", \"short_interest\", \"insider_selling\", \"earnings_revisions_1m\", \"upcoming_earnings_date\", \"support_level\", \"resistance_level\", \"beta\", \"average_true_range\"]}",
+  "error": null
+}

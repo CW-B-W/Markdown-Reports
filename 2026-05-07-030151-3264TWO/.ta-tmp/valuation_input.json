@@ -1,0 +1,17 @@
+{
+  "ticker": "3264.TWO",
+  "eps": 5.65,
+  "bvps": 29.55,
+  "shares_outstanding": 490170076,
+  "curr_price": 248.5,
+  "current_assets": 10458546000,
+  "total_liabilities": 11604508000,
+  "net_income": 2771140000,
+  "depreciation": 1707153000,
+  "maintenance_capex": 2855262000,
+  "working_capital_change": 0,
+  "fcff": 1525183000,
+  "growth_rate": 0.03,
+  "pe_ratio": 41.84,
+  "eps_growth_rate": 0.03
+}

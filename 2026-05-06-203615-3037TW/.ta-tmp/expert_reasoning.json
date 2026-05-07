@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ben Graham",
+    "key": "graham",
+    "reasoning": "At NT$858, the stock trades at 8.0x Graham Number (NT$106.92) and 126x earnings, with PB 12x—all astronomically above safe limits. NCAV is negative, so no asset-based floor. Current ratio of 1.32 is below my 2.0 requirement, indicating weak liquidity. Dividends are negligible (0.23%). Despite improving earnings, the price discounts years of perfect growth, leaving zero margin of safety. Even if EP"
+  },
+  {
+    "name": "Phil Fisher",
+    "key": "fisher",
+    "reasoning": "Unimicron’s transformation is impressive: revenue +24.5% YoY, net margin 14.37% up from near zero, and sustained capex of 64.5B TTM indicate a serious commitment to ABF substrate leadership. The net cash position is robust. But the stock has soared 65% in a month to NT$858, pushing PE to 126x and PEG to 8.4—pricing in many years of flawless execution. Even for a high-quality growth company, this v"
+  },
+  {
+    "name": "Ray Dalio",
+    "key": "dalio",
+    "reasoning": "PE of 126x and P/B of 12x are at historic extremes, far exceeding the Graham Number of NT$106.92. RSI at 78.4 indicates severe overbought conditions after a 65% monthly surge. Foreign investors have reduced stake from 43.25% to 38.37%, diverging from price, while retail margin debt rose 15%, signaling speculative excess. Despite improving EPS to NT$3.28, PEG ratio of 8.4 implies unsustainable pric"
+  },
+  {
+    "name": "Peter Lynch",
+    "key": "lynch",
+    "reasoning": "PEG ratio of 8.41 (PE 126.18x / 15% growth) is 4x my maximum acceptable 2.0, screaming 'sell.' The Graham Number NT$106.92 vs NT$858 shows an 702% overvaluation. RSI at 78.4 warns of an impending pullback after a 65% monthly surge. Foreign investors have cut holdings from 43.25% to 38.37% while retail margin debt rose 15%, a classic divergence. Even with Q1 EPS jumping to NT$3.28 and 24.5% revenue"
+  },
+  {
+    "name": "Stanley Druckenmiller",
+    "key": "druckenmiller",
+    "reasoning": "A 65% monthly moonshot to NT$858 has stretched every valuation metric to bubble territory. PE 126x and PEG 8.4 reflect perfection; the Graham Number of NT$106.92 screams 8x overvaluation. Even with stellar EPS of NT$3.28 and 24.5% revenue growth, the market has priced in years of hyper-growth. Meanwhile, foreign investors are bailing (ownership down to 38.37%), retail margin debt is up 15%, and RS"
+  },
+  {
+    "name": "Bullish Advocate",
+    "key": "bullish",
+    "reasoning": "The weekly outlook is bearish with high confidence. Q1 2026 EPS of NT$3.28 and revenue growth of +24.5% YoY confirm operational momentum, but the stock’s valuation is at unprecedented extremes: trailing PE of 126.18x (up from 27x a year ago), PB of 12.02x, and a PEG of 8.41—more than four times the 2.0 threshold for growth-at-a-reasonable-price. The Graham Number of NT$106.92 indicates the share p"
+  },
+  {
+    "name": "Warren Buffett",
+    "key": "buffett",
+    "reasoning": "At NT$858, Unimicron trades at 126.2x PE and 12.0x PB, a 4.7x multiple expansion from 27x just 12 months ago. The Graham Number of NT$106.92 implies the price is 8x above a rational floor, while DCF yields only NT$5.18 and owner earnings multiples top 116x. PEG of 8.41 (even assuming 15% EPS growth) far exceeds the 2.0 sanity threshold. RSI at 78.4 signals extreme overbought, and foreign investors"
+  },
+  {
+    "name": "George Soros",
+    "key": "soros",
+    "reasoning": "{\n  \"ANALYSIS PROCESS\": \"Reviewing all expert verdicts: unanimous bearish across value and macro investors (Lynch, Graham, Buffett, Munger, Pabrai, Ackman, Dalio, Burry all 95-85% bearish) with only two neutrals (Fisher 60%, Druckenmiller 55%) and no bulls. This intense consensus from smart money reinforces that the reflexivity dynamic is at a classic far-from-equilibrium extreme. The narrative of ABF recovery has fueled a 65% monthly surge to NT$858, yet fundamentals (EPS 3.28, revenue +24.5% Y"
+  },
+  {
+    "name": "Charlie Munger",
+    "key": "munger",
+    "reasoning": "At 126x PE and 12x PB, Unimicron is egregiously overvalued relative to any rational metric. The Graham Number of NT$106.92 implies an 8x overvaluation, while PEG ratio of 8.41 (PE 126.18 / 15% growth) is quadruple even generous growth assumptions. Q1 EPS of NT$3.28 and 24.5% revenue growth are strong, but they do not justify a 65% monthly surge that pushed RSI to 78.4, indicating an imminent rever"
+  },
+  {
+    "name": "Bearish Advocate",
+    "key": "bearish",
+    "reasoning": "Unimicron trades at extreme multiples: P/E 126.18x, P/B 12.02x, PEG 8.4, while the Graham Number is just NT$106.92 – a 702% overvaluation. RSI 78.4 screams overbought after a 65% monthly surge. TTM free cash flow remains deeply negative at -NT$21.7B, undermining the earnings recovery story. Foreign investors have reduced holdings from 43.25% to 38.37% even as retail margin debt jumps 15% and borro"
+  },
+  {
+    "name": "Mohnish Pabrai",
+    "key": "pabrai",
+    "reasoning": "All 13 experts are bearish or neutral; none are bullish. Price NT$858 exceeds Graham Number 8x, PE 126x, PEG 8.4, and RSI 78.4 signals overbought. Despite strong Q1 EPS 3.28 and net cash, the margin of safety is negative—a required >50% discount is absent. Foreign selling, margin expansion, and negative TTM FCF show risk/reward is heavily skewed to the downside. Dhandho demands a distressed indust"
+  },
+  {
+    "name": "Bill Ackman",
+    "key": "ackman",
+    "reasoning": "Unimicron trades at 126x PE, 12x PB, PEG 8.4—all extreme, with Graham Number at NT$106.92 implying 702% overvaluation. DCF yields only NT$5.18. While Q1 EPS hit NT$3.28 and revenue grew 24.5% YoY, the 65% one-month price surge has fully discounted this recovery. Technicals flash danger: RSI 78.4, price 17% above 20-day SMA. Foreigners sold 5% of holdings in 4 months while retail margin debt jumped"
+  },
+  {
+    "name": "Michael Burry",
+    "key": "burry",
+    "reasoning": "The stock's PE of 126x, a 4.7x expansion from 27x a year ago, leaves no margin of safety. Graham Number is NT$107, implying a 702% premium. PEG of 8.4 signals even 15% EPS growth is laughably priced. RSI 78.4 confirms extreme overbought conditions. Foreign investors have reduced holdings from 43.25% to 38.37% in four months while retail margin debt rose 15%, classic distribution. The strong Q1 EPS"
+  },
+  {
+    "name": "Cathie Wood",
+    "key": "wood",
+    "reasoning": "Unimicron's ABF substrate business is not a disruptive platform; it's a capital-intensive cyclical manufacturer with no network effects or data moats. The panel's unified bearish stance underscores extreme overvaluation: PE at 126x, PB at 12x, PEG of 8.4 assuming 15% growth, all miles above historical norms. The Graham Number is a mere NT$106.92 versus a market price of NT$858—a 702% premium that "
+  }
+]

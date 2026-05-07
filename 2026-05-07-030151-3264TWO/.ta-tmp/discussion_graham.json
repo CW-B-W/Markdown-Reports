@@ -1,0 +1,84 @@
+{
+  "expert": "Benjamin Graham",
+  "original_verdict": "{\"signal\":\"bearish\",\"confidence\":95,\"reasoning\":\"Price NT$248.50 is 4.06x Graham Number of NT$61.29 (305% premium). PE 43.98 vs maximum 15; PB 8.41, well above 2.5 limit. Earnings declined: EPS from 7.05 to 5.65, net profit -10.2% in 2024. Zero margin of safety; NCAV negative. Dividend yield 1.61% negligible. AI-driven rally has divorced price from fundamental value—extreme downside risk. Prudent investor must avoid this speculative bubble.\"}",
+  "all_verdicts": [
+    {
+      "expert": "Warren Buffett",
+      "signal": "bearish",
+      "confidence": 90,
+      "reasoning": "Business not poor but price absurdly high vs intrinsic value. NT$248.50 at 41.84x trailing EPS of NT$5.65 (>2x historical ~20x). Graham Number just NT$61.29, no margin of safety. DCF with 3% growth yields only NT$43.44. Fundamentals flat: revenue +0.5%, EPS declining from 7.05 peak. Rally purely momentum/AI speculation with foreign investors cutting stake from 37% to 29.67%. RSI 72.34, price 24% above 20-MA. Reversion highly probable. Would not invest."
+    },
+    {
+      "expert": "Charlie Munger",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "Classic mania detached from fundamentals. NT$248.50 trades at 4x Graham Number (61.29) and PE 41.8 for business with declining EPS, flat revenue. AI testing theme real but moat unproven—capital-intensive cyclical service. Management hasn't created value growth. Technically extremely overbought: RSI 72.34, 24% above 20-MA, breakout above Bollinger Band. Sharp rise on declining volume, heavy foreign selling (29.67% vs 37% in 2025) warns of blow-off top. Fails every Munger test."
+    },
+    {
+      "expert": "Peter Lynch",
+      "signal": "bearish",
+      "confidence": 90,
+      "reasoning": "PEG ratio catastrophic: P/E 44.0 vs at most 3% growth gives PEG ~14.7, massively above 1.0. EPS declining (7.05 to 5.65), revenue flat +0.5%. Slow grower priced like fast grower on AI hopes. Business understandable but 44x earnings with no growth is uninvestable. Financial strength (low debt, 19% ROE) can't rescue extreme overvaluation. 59% one-month surge is pure multiple expansion, not fundamental improvement. Sell or stay far away."
+    },
+    {
+      "expert": "Phil Fisher",
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "Revenue growth anemic +0.5%, net profit -10.2%, gross margin fell from 40.8% to 34.4%. No revenue acceleration or margin recovery despite AI hype. PE 41.8x vs historical ~20x, Graham Number only 61.29 vs 248.5 = speculative froth. No evidence of strong R&D or management excellence to reverse multi-year EPS decline. +59.3% monthly surge fund-driven, unsustainable. Classic growth mirage—poor quality, deteriorating margins, no durable competitive advantage for 5-10 years."
+    },
+    {
+      "expert": "Cathie Wood",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "3264 lacks any characteristics of disruptive innovation. Revenue stagnant +0.5%, earnings declining -10.2%, no exponential adoption curve. AI testing narrative inflated PE to 41.84x, far beyond historical ~20x. Graham Number = 61.29, indicating massive overvaluation. No platform effects, no learning curve advantages, no data moat. TAM may expand with AI but company shows no accelerating revenue capture. Classic cyclical business riding theme without transformative growth. Price surge driven by fund flows, not disruption."
+    },
+    {
+      "expert": "Bill Ackman",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "Stock deeply overvalued with no margin of safety. NT$248.50 = 4x Graham Number (61.29), 41.8x earnings while EPS declining two years, revenue flat. AI testing narrative already fueled 59% surge—no undiscovered catalyst. Business quality decent (ROE 19.1%, net margin 21.5%) but not exceptional. No activist angle to unlock value. From value perspective, clear avoid; risk/reward overwhelmingly favors downside."
+    },
+    {
+      "expert": "Ray Dalio",
+      "signal": "neutral",
+      "confidence": 65,
+      "reasoning": "Global equities at ATH (S&P 7,365, Nasdaq 25,839), TAIEX +23.8%, providing strong macro tailwinds. But 3264 surged 59.3% to 248.50 on flat revenue and -10.2% EPS decline, driving P/E to 41.8x vs historical ~20x. Graham Number values stock at just 61.29. Foreign ownership fallen to 29.67%. AI thematics fueling speculation without real productivity gains. Gold at US$4,697/oz hints at underlying risks. Mixed signals: favorable macro but extremely overvalued asset. Wait for correction."
+    },
+    {
+      "expert": "Michael Burry",
+      "signal": "bearish",
+      "confidence": 80,
+      "reasoning": "Stock surged 59.3% in one month to NT$248.50, far exceeding Graham Number (61.29) and DCF (43.44). PE 41.8x vs historical ~20x, EPS declining two years. Foreign ownership dropped from 37.02% to 29.67% while price skyrocketed—distribution into strength. RSI 72.34 overbought, price 11% above 5-MA, classic blow-off top. Volume on limit-up day 14.5K below 5-day avg 16.5K. AI narrative fully priced, no fundamental improvement. Downside to 5-MA at 223.9 (-9.9%) substantial; sharp mean-reversion correction expected."
+    },
+    {
+      "expert": "Mohnish Pabrai",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "NT$248.50, PE 41.8x, far above intrinsic value (Graham Number 61.29, DCF 43.44). No margin of safety—massive overvaluation. AI testing sector hot, not distressed. No obvious durable moat with minimal competition. Fundamentals: flat revenue, declining EPS (5.65 from 7.05 peak). 59.3% surge purely speculative. Buffett/Munger would avoid entirely: heads I lose, tails I lose big. Even 50% price drop wouldn't reach fair value. Dhandho framework demands simple business, distressed industry, large margin of safety—none apply."
+    },
+    {
+      "expert": "Stanley Druckenmiller",
+      "signal": "bearish",
+      "confidence": 75,
+      "reasoning": "Decelerating growth is critical: EPS -10.2% YoY, Q1'26 revenue -2.7% QoQ. PE 41.8x, >300% above Graham Number (61.29). RSI 72.34, limit-up on declining volume (14.5K vs 16.5K avg). Foreign investors selling for months, ownership from 37.02% to 29.67%. Risk/reward poor: upside to 260 (+4.6%) vs downside to 5-MA at 223.9 (-10%). Though macro and AI sentiment supportive, price driven by narrative not fundamentals. Reversal probable."
+    },
+    {
+      "expert": "George Soros",
+      "signal": "bearish",
+      "confidence": 45,
+      "reasoning": "Late-stage boom-bust: AI testing revaluation narrative drove 59.3% surge to 248.5. PE 41.8x, 305% above Graham Number 61.29, fundamentals deteriorating (revenue flat, EPS -10%). Reflexivity persists via investment trust buying, but divergences signal exhaustion: volume 14.5K vs 16.5K avg, RSI 72.34, price above Bollinger upper band (238.38), 11% gap above 5-MA (223.9). Foreign institutions sold holdings from 37% to 29.67%. Narrative powerful but disconnected from reality; self-reinforcing loop waning. Near-term reversal likelihood rising, but exact timing uncertain."
+    },
+    {
+      "expert": "Bullish Advocate",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "Revenue growth +0.5%, net income -10.2%, EPS 5.65 makes PE 41.8x and 305% premium to Graham Number (61.29) unsustainable. Technicals deeply overbought: RSI 72.3, price breaking Bollinger upper, 11% above 5-MA (223.9). Foreign institutions net sellers, holdings to 29.67% while price rises. AI testing re-rating unsupported by revenue acceleration; Q1 2026 revenue flat QoQ. Best-case already priced—no margin of safety. No near-term catalyst justifies extremes; sharp correction probable."
+    },
+    {
+      "expert": "Bearish Advocate",
+      "signal": "bearish",
+      "confidence": 90,
+      "reasoning": "Fundamentals deteriorating: revenue +0.5%, net income -10.2%, gross margin 40.8%→34.4%, EPS declining. PE 41.84x (historical ~20x), 305% above Graham Number (61.29). RSI 72.34, price 4.2% above Upper Bollinger, 11% deviation from 5-MA, volume dropping. Foreign holdings plunged from 37.02% to 29.67% despite rally—smart money exiting. AI testing narrative is pure multiple expansion without earnings growth. Worst-case: hype fades, stock reverts toward fundamental value near 60, >75% downside. Market ignoring this peril."
+    }
+  ]
+}

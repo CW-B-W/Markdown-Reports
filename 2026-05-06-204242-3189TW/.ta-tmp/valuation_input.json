@@ -1,0 +1,17 @@
+{
+  "ticker": "3189.TW",
+  "eps": 3.51,
+  "bvps": 71.69,
+  "shares_outstanding": 526925960,
+  "curr_price": 482.5,
+  "current_assets": 28937637000,
+  "total_liabilities": 38600083000,
+  "net_income": 1595936000,
+  "depreciation": 7159189000,
+  "maintenance_capex": 6116754000,
+  "working_capital_change": 0,
+  "fcff": -3845974000,
+  "growth_rate": 0.15,
+  "pe_ratio": 138.25,
+  "eps_growth_rate": 0.20
+}
