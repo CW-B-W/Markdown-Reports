@@ -1,0 +1,26 @@
+{
+  "expert": "Cathie Wood",
+  "expert_key": "wood",
+  "phase": "order",
+  "built_in_requirements": [
+    "revenue_growth",
+    "eps_growth",
+    "pe_ratio",
+    "operating_margin",
+    "roe",
+    "revenue",
+    "net_income",
+    "free_cash_flow",
+    "research_and_development",
+    "capital_expenditure",
+    "outstanding_shares",
+    "TAM_size",
+    "disruption_potential",
+    "technology_roadmap",
+    "adoption_curve",
+    "network_effects",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"unit_cost_curve\",\n    \"customer_acquisition_cost\",\n    \"churn_rate\",\n    \"user_growth_rate\",\n    \"market_share\",\n    \"regulatory_risk_assessment\",\n    \"gross_margin_trend\",\n    \"r_and_d_efficiency_ratio\",\n    \"network_effects_evidence\",\n    \"data_moat_indicators\"\n  ]\n}",
+  "error": null
+}

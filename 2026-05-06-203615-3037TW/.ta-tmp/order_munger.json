@@ -1,0 +1,31 @@
+{
+  "expert": "Charlie Munger",
+  "expert_key": "munger",
+  "phase": "order",
+  "built_in_requirements": [
+    "roe",
+    "operating_margin",
+    "gross_margin",
+    "debt_to_equity",
+    "pe_ratio",
+    "pb_ratio",
+    "revenue_growth",
+    "eps_growth",
+    "revenue",
+    "gross_profit",
+    "net_income",
+    "free_cash_flow",
+    "capital_expenditure",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "return_on_invested_capital",
+    "owner_earnings",
+    "management_track_record",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"roic\", \"free_cash_flow_yield\", \"dividend_yield\", \"payout_ratio\", \"share_buybacks\", \"insider_ownership\", \"management_tenure\", \"interest_coverage_ratio\", \"earnings_quality\", \"competitive_advantages\", \"industry_trends\"]}",
+  "error": null
+}

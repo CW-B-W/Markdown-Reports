@@ -1,0 +1,17 @@
+{
+  "ticker": "1314",
+  "eps": -0.78,
+  "bvps": 20.15,
+  "shares_outstanding": 3784850130,
+  "curr_price": 7.23,
+  "current_assets": 57800566000,
+  "total_liabilities": 53018888000,
+  "net_income": -2975736000,
+  "depreciation": 1326726000,
+  "maintenance_capex": -1023179000,
+  "working_capital_change": 0,
+  "fcff": -11626537000,
+  "growth_rate": 0.02,
+  "pe_ratio": 0,
+  "eps_growth_rate": 0.02
+}

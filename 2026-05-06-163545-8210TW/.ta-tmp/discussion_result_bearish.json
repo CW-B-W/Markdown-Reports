@@ -1,0 +1,20 @@
+{
+  "expert": "Bearish Advocate",
+  "expert_key": "bearish",
+  "phase": "discussion",
+  "thinking": "We are asked to review the panel's verdicts and possibly revise our original bearish verdict. We are the Bearish Advocate. Our original verdict was bearish, confidence 85. The panel includes many experts, most are bearish or neutral, some bullish. Let's see if any arguments challenge our view. The Bullish Advocate is neutral (60). Druckenmiller is bullish (75). Others are bearish. The consensus seems heavily bearish. Since we are the Bearish Advocate, we might maintain bearish. But we must check if any compelling bull arguments could shift our confidence. The bearish consensus includes Graham at 95 confidence. Our reasoning is strong. We can incorporate other bearish experts' points, but no need to change. However, we must check the rules: \"You may revise your original verdict based on their reasoning.\" I think the bearish verdict stands. Confidence could be adjusted. Among bearish, Graham 95, Burry 85, Munger 75, etc. We had 85. Maybe we could increase confidence to 90+ because of Graham's severe overvaluation and Burry's April revenue collapse. But we already knew those. Our reasoning already covers overvaluation and slowdown. So maybe keep confidence 85. Or slightly up if we emphasize that the Graham Number is 238 vs 1325, an 82% overvaluation. Also, April revenue slowed to +4.6%, MoM -17.6%. So the growth is collapsing. That increases bearishness. So I'll keep bearish, maybe confidence 90. But let's check if any bull points (strong growth 71% Q1, etc) are enough to offset? They are not for a bear. I'll stick with bearish and 85 or 90. I'll mention the consensus support. So I'll produce a final verdict with updated reasoning. I need to format as JSON with analysis_process (short) and verdict with signal, confidence, reasoning.",
+  "verdict": "{\n  \"analysis_process\": \"As Bearish Advocate, I find the bearish consensus overwhelming. The Graham Number of NT$238 vs market price NT$1,325 indicates catastrophic overvaluation. April revenue growth collapsed to +4.6% YoY from March's +44.7%, and MoM fell -17.6%, signaling the AI growth narrative may be cracking. PE 46.65 and PB 15.25 are at year extremes. RSI 81.8 points to an imminent technical correction. Even aggressive DCF (20% growth) yields only NT$1,267, no margin of safety. The high-confidence bearish verdicts from Graham (95%), Burry (85%), and others reinforce that the downside risk far outweighs any remaining momentum. This is a classic overvalued, overbought momentum trap.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 90,\n    \"reasoning\": \"The stock exhibits extreme overvaluation: PE 46.65, PB 15.25, Graham Number only NT$238, an 82% premium. April revenue deceleration to +4.6% YoY (down from March +44.7%) and -17.6% MoM suggest growth cycles are turning. RSI at 81.8 is deeply overbought, and price is 24.5% above the 20-day MA. DCF at NT$1,267 provides zero margin of safety. Worst-case PE mean reversion to 20x could send the stock below NT$600. With no durable moat and a sudden revenue slowdown, the risk-reward is highly unfavorable for a weekly holding period. Strong bear consensus from multiple experts validates this view.\"\n  }\n}",
+  "tokens": {
+    "prompt_tokens": 6999,
+    "completion_tokens": 775,
+    "total_tokens": 7774,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 408
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 6871
+  }
+}

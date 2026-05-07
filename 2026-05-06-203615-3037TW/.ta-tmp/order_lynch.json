@@ -1,0 +1,24 @@
+{
+  "expert": "Peter Lynch",
+  "expert_key": "lynch",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "eps_growth",
+    "revenue_growth",
+    "debt_to_equity",
+    "net_margin",
+    "peg_ratio",
+    "revenue",
+    "net_income",
+    "earnings_per_share",
+    "free_cash_flow",
+    "outstanding_shares",
+    "dividends_and_other_cash_distributions",
+    "insider_transactions",
+    "institutional_ownership",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"business_description\", \"industry_sector\", \"beta\", \"cash_and_equivalents\", \"eps_growth_3yr\", \"eps_growth_5yr\", \"dividend_yield\", \"insider_ownership_percentage\", \"current_stock_price\"]}",
+  "error": null
+}

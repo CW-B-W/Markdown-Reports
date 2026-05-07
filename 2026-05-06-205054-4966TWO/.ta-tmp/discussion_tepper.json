@@ -1,0 +1,125 @@
+{
+  "original_verdict": "Spectrum-KY shows pockets of distress but not the moment of maximum pessimism after a sharp 23.8% monthly rebound. PE at 17.7x and PB 1.98x are reasonable but not deeply undervalued given slowing growth. Upside to DCF fair value 631 is just +9.9%, while downside to SMA60 support at 523 is -8.9%—symmetric risk/reward. Catalysts are H2 2026 stories, lacking a clear trigger for the next 30 days.",
+  "all_verdicts": [
+    {
+      "expert": "Warren Buffett",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "While the business has a narrow moat (Apple certification barriers, eDP patents) and fortress balance sheet (net cash NT$73B, FCF yield 7.24%), I am concerned by the heavy client concentration (60-75% Apple) and slowing growth—revenue decelerated from +18.9% in 2024 to +1.8% in 2025, with Q1 2026 do"
+    },
+    {
+      "expert": "Benjamin Graham",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "Spectacular balance sheet (current ratio 4.98, zero net debt) and consistent dividends support the business quality, but at NT$574 the stock trades at a 26% premium to its Graham Number of NT$454.63. P/E of 17.73 and P/B of 1.98 both exceed my 15x and 1.5x thresholds, eliminating any margin of safet"
+    },
+    {
+      "expert": "Charlie Munger",
+      "signal": "bearish",
+      "confidence": 55,
+      "reasoning": "Revenue growth has evaporated (Q1 2026 YoY -3.9%), analyst EPS estimates dropped 22% to 34, and foreign ownership plummeted from 45% to 26.88% in a year. Borrow shorting exploded 770% to 7,863 lots. ROE of 11.65% is half the peer average, and PEG above 3.5x shows growth doesn't justify the 17.73x PE"
+    },
+    {
+      "expert": "Peter Lynch",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "PEG of 3.55x (using 5% growth) severely exceeds Lynch's 1.0 maximum. Revenue growth collapsed from +18.9% in 2024 to just +1.8% in 2025 and a negative -3.9% in Q1 2026. EPS is forecast flat at NT$34, implying a forward PE of 16.9x with no growth compensation. Lynch would avoid this as a classic over"
+    },
+    {
+      "expert": "Philip Fisher",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Growth quality is deteriorating: revenue went from +18.9% in 2024 to just +1.8% in 2025, with Q1 2026 turning -3.9% YoY. Gross margin compressed to 40.3%. While R&D investment is robust (289 IPs, new PCIe Gen6 and TTED products), revenue contributions are not expected until late 2026. Foreign owners"
+    },
+    {
+      "expert": "Bill Ackman",
+      "signal": "neutral",
+      "confidence": 50,
+      "reasoning": "The stock is modestly undervalued with a forward PE of 16.88x versus peers at 18.5x, but this discount is warranted given ROE of just 9.5%—half the industry average. DCF suggests only 9.9% upside to NT$631, well below my 30% threshold for a concentrated position. New product lines may drive H2 growt"
+    },
+    {
+      "expert": "Cathie Wood",
+      "signal": "bearish",
+      "confidence": 65,
+      "reasoning": "Parade's technology represents incremental evolution, not exponential disruption. Revenue growth is decelerating sharply (2026Q1 -3.9% YoY), with EPS consensus falling 22%. The TAM is constrained by heavy Apple dependence (60-75% of sales) and a maturing PC market. No platform effects or learning cu"
+    },
+    {
+      "expert": "Michael Burry",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "PE 17.7x and PB 1.98x appear reasonable, but PEG >3x signals overvaluation adjusted for slow growth. Net cash 16% of price offers some defense, yet EPS estimates (-22%) and margin erosion undermine value. Catalysts (PCIe retimers, TTED) are promising but likely beyond one-month horizon. Heavy short "
+    },
+    {
+      "expert": "Mohnish Pabrai",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "Business is reasonably simple but not a Dhandho-type business. Industry is not truly distressed. Moat is narrow. Margin of safety is inadequate: DCF fair value NT$630.94 implies only a 10% upside, nowhere near a 50% discount. The checklist misses 'minimal competition' and '>50% margin of safety,' so"
+    },
+    {
+      "expert": "Ray Dalio",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Macro headwinds dominate near-term: Q1 2026 revenue -3.9% YoY, EPS estimates slashed 22%, and PC cycle weakens. Productivity innovations offer long-term catalysts but limited monthly impact. Valuation supportive with PE 16.4x versus peer median 18.5x and DCF implying 10% upside, but ROE of 9.5% is h"
+    },
+    {
+      "expert": "Stanley Druckenmiller",
+      "signal": "bearish",
+      "confidence": 78,
+      "reasoning": "Revenue growth decelerated sharply from +18.9% YoY in 2024 to -3.9% in 2026Q1, and consensus EPS has been cut 22%. Foreign ownership collapsed from 45.45% to 26.88% in a year, and securities lending surged 770%. MACD histogram turned negative and the long-term downtrend from 848 remains intact. Valu"
+    },
+    {
+      "expert": "George Soros",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Revenue contraction (-3.9% Q1 2026) and EPS downgrades (43.74 to 34, -22%) signal ongoing fundamental weakness, contradicting the powerful AI data-center narrative. Valuation appears low (PE 16.4x, DCF implies ~631 vs 574), but low ROE justifies discount. Foreign ownership plummeted. There is no sel"
+    },
+    {
+      "expert": "Joel Greenblatt",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Earnings yield (EBIT/EV) of 6.82% is moderate, well below the 10% excellent threshold. ROC approximated at ~14% indicates decent but not superior profitability. Neither metric qualifies for a bullish signal. The business has a narrow moat but faces growth deceleration and high customer concentration"
+    },
+    {
+      "expert": "Howard Marks",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Valuation is reasonable with PE 17.73x and a 7.24% FCF yield, while the balance sheet provides a strong safety net. However, the business cycle is clearly weakening: 2026Q1 revenue fell -3.9% YoY, consensus EPS revised down 22%. Foreign ownership almost halved. The recent 40% bounce from 463.5 has r"
+    },
+    {
+      "expert": "David Tepper",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Spectrum-KY shows pockets of distress but not the moment of maximum pessimism after a sharp 23.8% monthly rebound. PE at 17.7x and PB 1.98x are reasonable but not deeply undervalued given slowing growth. Upside to DCF fair value 631 is just +9.9%, while downside to SMA60 support at 523 is -8.9%—symm"
+    },
+    {
+      "expert": "Jim Simons",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "Price at 574 sits above short-term MAs but MACD histogram turned negative (-1.25), signaling short-term momentum weakening. Medium-term trend remains bearish with the stock down 14% over 6 months versus a 46% market gain. DCF fair value of 631 offers a modest 10% upside, but EPS estimates have been "
+    },
+    {
+      "expert": "Aswath Damodaran",
+      "signal": "neutral",
+      "confidence": 65,
+      "reasoning": "DCF gives NT$631, a 9.9% upside to current NT$574, but this narrow gap leaves little room for error given high uncertainty. Revenue is decelerating (2026Q1 -3.9% YoY) and EPS estimates have fallen 22%. ROE of 9.5% is half the peer median. The growth catalysts are back-end loaded (H2 2026). The marke"
+    },
+    {
+      "expert": "Nassim Taleb",
+      "signal": "bearish",
+      "confidence": 55,
+      "reasoning": "4966.TWO is fragile due to extreme Apple dependency (60-75% of revenue), with revenue now contracting (-3.9% YoY). EPS estimates slashed from 43.74 to 34, yet the stock jumped 24% in one month. Downside risk is significant: a miss on April revenue or further EPS cut to 30 could send the stock back t"
+    },
+    {
+      "expert": "Bullish Advocate",
+      "signal": "bullish",
+      "confidence": 65,
+      "reasoning": "DCF estimate of NT$630.94 provides 9.9% upside. Forward PE of 16.88x is 13% below industry median. Net cash of NT$92.71 per share creates buffer. March revenue turned positive at +3.4% YoY and +21.4% MoM. The new TTED product with no close competitor offers a growth catalyst. Two rounds of share buy"
+    },
+    {
+      "expert": "Bearish Advocate",
+      "signal": "bearish",
+      "confidence": 75,
+      "reasoning": "Revenue contraction is accelerating: 2026Q1 YoY -3.9%. Gross margins sliding to 40.3%. Analyst EPS estimates cut by 22% to NT$34. Foreign institutional ownership collapsed from 45.45% to 26.88%. High Apple concentration (60-75%) creates hidden cliff risk. PEG above 3x shows overvaluation relative to"
+    }
+  ]
+}

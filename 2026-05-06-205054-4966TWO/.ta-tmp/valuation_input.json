@@ -1,0 +1,17 @@
+{
+  "ticker": "4966.TWO",
+  "eps": 33.05,
+  "bvps": 277.95,
+  "shares_outstanding": 78957788,
+  "curr_price": 574.00,
+  "current_assets": 16875752000,
+  "total_liabilities": 3639851000,
+  "net_income": 2591772000,
+  "depreciation": 315304000,
+  "maintenance_capex": 139135000,
+  "working_capital_change": 0,
+  "fcff": 3279934000,
+  "growth_rate": 0.05,
+  "pe_ratio": 17.73,
+  "eps_growth_rate": 0.05
+}

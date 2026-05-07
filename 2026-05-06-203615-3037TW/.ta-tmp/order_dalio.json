@@ -1,0 +1,8 @@
+usage: summon_expert.py [-h] --expert
+                        {bullish,buffett,lynch,pabrai,damodaran,munger,jhunjhunwala,ackman,taleb,graham,burry,fisher,druckenmiller,wood,bearish}
+                        --ticker TICKER [--period PERIOD]
+                        [--data-file DATA_FILE]
+                        [--prior-data-file PRIOR_DATA_FILE]
+                        [--discussion-file DISCUSSION_FILE] [--ask-order]
+                        [--json]
+summon_expert.py: error: argument --expert: invalid choice: 'dalio' (choose from 'bullish', 'buffett', 'lynch', 'pabrai', 'damodaran', 'munger', 'jhunjhunwala', 'ackman', 'taleb', 'graham', 'burry', 'fisher', 'druckenmiller', 'wood', 'bearish')

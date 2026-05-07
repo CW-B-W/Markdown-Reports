@@ -1,0 +1,17 @@
+{
+  "ticker": "2345.TW",
+  "eps": 47.13,
+  "bvps": 102.73,
+  "shares_outstanding": 561117897,
+  "curr_price": 2485.0,
+  "current_assets": 121067470000,
+  "total_liabilities": 85595896000,
+  "net_income": 26305944000,
+  "depreciation": 1551064000,
+  "maintenance_capex": 4894199000,
+  "working_capital_change": 0,
+  "fcff": 29958065000,
+  "growth_rate": 0.10,
+  "pe_ratio": 52.73,
+  "eps_growth_rate": 0.25
+}

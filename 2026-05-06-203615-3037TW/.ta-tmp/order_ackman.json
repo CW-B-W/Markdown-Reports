@@ -1,0 +1,26 @@
+{
+  "expert": "Bill Ackman",
+  "expert_key": "ackman",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "roe",
+    "operating_margin",
+    "revenue_growth",
+    "debt_to_equity",
+    "revenue",
+    "free_cash_flow",
+    "total_assets",
+    "total_liabilities",
+    "dividends_and_other_cash_distributions",
+    "outstanding_shares",
+    "activism_catalyst",
+    "corporate_governance_issues",
+    "spin_off_potential",
+    "asset_sale_value",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"upcoming_catalysts_next_week\",\n    \"recent_insider_transactions\",\n    \"short_interest_as_percentage_of_float\",\n    \"institutional_ownership_changes\",\n    \"analyst_rating_changes_last_month\",\n    \"industry_peer_performance\",\n    \"macro_events_impacting_sector\",\n    \"current_stock_price_vs_52_week_high_low\",\n    \"dividend_ex_date_if_any\",\n    \"pending_litigation_or_regulatory_news\"\n  ]\n}",
+  "error": null
+}

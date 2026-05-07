@@ -1,0 +1,24 @@
+{
+  "expert": "Bullish Advocate",
+  "expert_key": "bullish",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "eps_growth",
+    "revenue_growth",
+    "peg_ratio",
+    "operating_margin",
+    "roe",
+    "revenue",
+    "net_income",
+    "earnings_per_share",
+    "free_cash_flow",
+    "outstanding_shares",
+    "catalysts",
+    "product_pipeline",
+    "market_share_trends",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"current_stock_price\",\n    \"50_day_moving_average\",\n    \"200_day_moving_average\",\n    \"relative_strength_index\",\n    \"trading_volume\",\n    \"analyst_ratings_and_price_targets\",\n    \"earnings_report_date\",\n    \"industry_sector_performance\",\n    \"institutional_ownership_changes\",\n    \"short_interest\",\n    \"macro_event_calendar\"\n  ]\n}",
+  "error": null
+}

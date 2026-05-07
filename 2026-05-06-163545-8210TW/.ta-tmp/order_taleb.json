@@ -1,0 +1,24 @@
+{
+  "expert": "Nassim Taleb",
+  "expert_key": "taleb",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "debt_to_equity",
+    "current_ratio",
+    "volatility",
+    "total_assets",
+    "total_liabilities",
+    "net_income",
+    "free_cash_flow",
+    "outstanding_shares",
+    "capital_expenditure",
+    "black_swan_scenarios",
+    "hidden_leverage",
+    "supply_chain_concentration",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"insider_ownership_percentage\",\n    \"insider_transactions_last_3_months\",\n    \"implied_volatility_skew\",\n    \"tail_risk_pricing_in_options_market\",\n    \"debt_covenants_and_maturity_profile\",\n    \"customer_concentration_top_3\",\n    \"off_balance_sheet_exposures\",\n    \"derivatives_exposure_notional\",\n    \"revenue_growth_volatility\",\n    \"operational_leverage_degree\",\n    \"competitive_moat_and_switching_costs\",\n    \"pricing_power_index\",\n    \"geopolitical_exposure_direct_revenue\",\n    \"upcoming_earnings_or_major_announcements_date\",\n    \"historical_max_drawdown_duration\",\n    \"cash_burn_rate_under_stress\"\n  ]\n}",
+  "error": null
+}

@@ -1,0 +1,27 @@
+{
+  "expert": "Ben Graham",
+  "expert_key": "graham",
+  "phase": "order",
+  "built_in_requirements": [
+    "pe_ratio",
+    "pb_ratio",
+    "current_ratio",
+    "debt_to_equity",
+    "revenue_growth",
+    "earnings_per_share",
+    "revenue",
+    "net_income",
+    "book_value_per_share",
+    "total_assets",
+    "total_liabilities",
+    "current_assets",
+    "current_liabilities",
+    "dividends_and_other_cash_distributions",
+    "outstanding_shares",
+    "graham_number",
+    "net_current_asset_value",
+    "market_cap"
+  ],
+  "additional_needs": "{\n  \"additional_needs\": [\n    \"historical_eps\",\n    \"historical_dividends\"\n  ]\n}",
+  "error": null
+}

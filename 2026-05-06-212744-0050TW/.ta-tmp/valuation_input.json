@@ -1,0 +1,17 @@
+{
+  "ticker": "0050",
+  "eps": null,
+  "bvps": null,
+  "shares_outstanding": 18496000000,
+  "curr_price": 95.75,
+  "current_assets": null,
+  "total_liabilities": null,
+  "net_income": null,
+  "depreciation": null,
+  "maintenance_capex": null,
+  "working_capital_change": 0,
+  "fcff": null,
+  "growth_rate": 15,
+  "pe_ratio": 24.67,
+  "eps_growth_rate": 15
+}

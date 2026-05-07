@@ -1,0 +1,33 @@
+{
+  "expert": "Warren Buffett",
+  "expert_key": "buffett",
+  "phase": "order",
+  "built_in_requirements": [
+    "roe",
+    "operating_margin",
+    "net_margin",
+    "pe_ratio",
+    "pb_ratio",
+    "current_ratio",
+    "debt_to_equity",
+    "revenue_growth",
+    "eps_growth",
+    "capital_expenditure",
+    "depreciation_and_amortization",
+    "net_income",
+    "outstanding_shares",
+    "total_assets",
+    "total_liabilities",
+    "shareholders_equity",
+    "dividends_and_other_cash_distributions",
+    "issuance_or_purchase_of_equity_shares",
+    "gross_profit",
+    "revenue",
+    "free_cash_flow",
+    "intrinsic_value_estimate",
+    "owner_earnings",
+    "market_cap"
+  ],
+  "additional_needs": "{\"additional_needs\": [\"free_cash_flow\", \"interest_coverage_ratio\", \"dividend_payout_history\", \"insider_ownership_percentage\", \"industry_competitive_position\"]}",
+  "error": null
+}

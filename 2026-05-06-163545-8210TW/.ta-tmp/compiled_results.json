@@ -1,0 +1,287 @@
+{
+  "ackman": {
+    "signal": "bearish",
+    "confidence": 75,
+    "expert": "Bill Ackman",
+    "verdict": "{\n  \"analysis_process\": \"Re-examining 8210.TW as Bill Ackman, the core question is whether there's an actionable catalyst for short-term upside. The data shows superb operational quality—ROE 32.1%, revenue growth +36.4% YoY, and cash flow 2.29x net income—but valuation is extreme: PE 46.65 (12-month high), PB 15.25 (12-month high), and DCF of NT$1,267 with aggressive 20% growth assumes only 4.3% upside. RSI at 81.8 and a +57.6% monthly surge warn of a near-term reversal, while April revenue fell 17.6% MoM, hinting momentum may stall. Ackman's framework demands >30% upside with a clear catalyst; here, no governance fix, no balance sheet restructuring, and the AI narrative already appears priced in. Cross-examination reveals nearly all value-oriented peers—Graham, Munger, Pabrai, Lynch, Burry—share my bearish view; even the neutral Damodaran finds fair value near current price. The lone bullish view (Druckenmiller) relies on momentum, not value. Given this, I see no reason to diverge from my initial bearish stance. The risk of a correction outweighs any potential for further gains over a weekly horizon.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 75,\n    \"reasoning\": \"At NT$1,325, 8210.TW trades at a PE of 46.65—the top of its 12-month range—and a PB of 15.25, both extreme for a manufacturer. DCF with a generous 20% growth assumption yields NT$1,267, implying the stock is fully priced with just 4.3% potential upside, offering zero margin of safety. The Graham Number of NT$238 highlights a 5.6x overvaluation on tangible assets, which alarms any value-discipline investor. April’s revenue fell 17.6% MoM, slowing to just +4.6% YoY, signaling that the AI-driven growth may be decelerating. RSI at 81.8 signals severe overbought conditions, and the 57.6% one-month surge makes a sharp pullback probable. While the business quality is high (ROE 32.1%, OCF/net income 2.29x), no near-term catalyst can unlock further value: dividends are small, buybacks absent, and governance is sound, leaving little activist angle. With the entire value-oriented panel concurring that the risk-reward is asymmetric, a bearish weekly outlook is justified. The stock’s PE would need to contract materially to offer a comfortable entry point.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7052,
+      "completion_tokens": 1074,
+      "total_tokens": 8126,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 480
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6924
+    }
+  },
+  "damodaran": {
+    "signal": "neutral",
+    "confidence": 55,
+    "expert": "Aswath Damodaran",
+    "verdict": "{\n  \"analysis_process\": \"I start from my core DCF framework. The narrative of AI-driven server chassis demand is strong, with 2025 revenue +36.4% and Q1 2026 +71.1% YoY, but April revenue decelerated to +4.6% YoY and -17.6% MoM, suggesting project lumpiness. My original DCF assumed 20% growth for 5 years, yielding NT$1,267, but with the recent slowdown, growth sustainability risk rises. Even at 20% growth, intrinsic value is 4.3% below the NT$1,325 price, leaving no margin of safety. The RSI at 81.8 and 1-month surge of 57.55% suggest market is pricing in near-perfect execution. Considering the wide range of possible outcomes (if growth drops to 15%, value would be far lower), the risk/reward is balanced but with a negative tilt. I remain neutral because the DCF value is still in the ballpark, but confidence is reduced given near-term headwinds.\",\n  \"verdict\": {\n    \"signal\": \"neutral\",\n    \"confidence\": 55,\n    \"reasoning\": \"My DCF intrinsic value of NT$1,267 sits just 4.3% below the NT$1,325 market price, indicating rough fair value under 20% annual growth assumptions. However, April's revenue growth of just 4.6% YoY and sequential drop of 17.6% MoM challenge the sustainability of hyper-growth, a key valuation driver. The PEG of 2.33 and RSI of 81.8 both signal over-optimism, while the Graham Number of NT$238 exposes catastrophic downside if growth disappoints. Although the 32.1% ROE and 2.29x OCF to net income ratio underscore business quality, the narrow margin of safety and high sensitivity to growth inputs push me to a neutral stance. For a weekly outlook, the overbought technicals and slowing momentum balance the strong AI demand narrative, keeping the risk-reward evenly matched.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7084,
+      "completion_tokens": 2025,
+      "total_tokens": 9109,
+      "prompt_tokens_details": {
+        "cached_tokens": 256
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1578
+      },
+      "prompt_cache_hit_tokens": 256,
+      "prompt_cache_miss_tokens": 6828
+    }
+  },
+  "pabrai": {
+    "signal": "bearish",
+    "confidence": 80,
+    "expert": "Mohnish Pabrai",
+    "verdict": "{\n  \"analysis_process\": \"I re-examined my checklist: server chassis is simple, but the AI server sector is red-hot, not distressed (57.55% monthly surge, PE at 46.65, PB at 15.25—both at 1-year highs). No clear durable moat; high ROE 32% could attract competition. Margin of safety is absent: DCF with 20% growth yields NT$1,267, still 4.3% below price, and Graham Number is NT$238, a 5.6x premium. The Dhandho framework demands a >50% discount to intrinsic value—nothing close. Most experts concur (Graham, Burry, Munger, Ackman, etc.) that this is overvalued and overbought. April revenue deceleration (+4.6% YoY, -17.6% MoM) hints at growth fragility. My original bearish verdict stands unchanged.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 80,\n    \"reasoning\": \"Simple business but euphoric sector: stock up 57.55% in one month, PE at 46.65 (year high), PB at 15.25 (year high). No clear durable moat; high growth likely attracts competitors. DCF with 20% growth assumption gives intrinsic value NT$1,267 versus market NT$1,325, a 4.3% overvaluation—no margin of safety. Conservative Graham number is NT$238, exposing massive downside. RSI 81.8 signals overbought, and the fast money may reverse. This looks like a ‘tails I lose big’ situation, not a low-risk Dhandho bet. Monthly outlook: high probability of mean reversion.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 6972,
+      "completion_tokens": 871,
+      "total_tokens": 7843,
+      "prompt_tokens_details": {
+        "cached_tokens": 256
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 489
+      },
+      "prompt_cache_hit_tokens": 256,
+      "prompt_cache_miss_tokens": 6716
+    }
+  },
+  "munger": {
+    "signal": "bearish",
+    "confidence": 75,
+    "expert": "Charlie Munger",
+    "verdict": "{\n  \"ANALYSIS PROCESS\": \"I start by inverting: if AI server demand slows, the 46.65 PE and 15.25 PB leave no protection. The business quality is strong with 32.12% ROE and OCF 2.29x net income, but moat durability is uncertain—hardware suppliers lack switching costs and could face competition. Management seems rational (low payout, reinvesting), but that alone can't justify paying 46.65x for a cyclical manufacturer. Mental models: I see anchoring on the 71% YoY Q1 growth, ignoring the April -17.6% MoM decline and the fact that DCF at 20% growth gives only NT$1,267, just 4.3% below price. The stock surged 57.55% in a month with RSI 81.8, a classic momentum bubble. Even Druckenmiller's bullish case admits overbought conditions. I'm not swayed by institutional buying; it's often late-cycle. Simple Graham measure (NT$238) shows extreme overvaluation relative to assets. No margin of safety means permanent capital loss risk is high. I remain bearish.\",\n  \"VERDICT\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 75,\n    \"reasoning\": \"At NT$1,325, the market is pricing perfection for a server chassis maker with a PE of 46.65—the top of its 12-month range—and a PB of 15.25, both extreme for a hardware business. The DCF value of NT$1,267 assumes 20% annual growth, yet still offers only 4.3% upside, leaving no margin of safety. The Graham Number of NT$238 confirms the stock is 5.6x overvalued on conservative asset-based measures. Revenue growth decelerated sharply in April to +4.6% YoY with a -17.6% MoM drop, raising questions about the sustainability of AI-linked demand. RSI at 81.8 and a 57.55% one-month surge signal an overbought momentum frenzy that typically ends in painful mean reversion. While the business is high-quality (ROE 32.12%, OCF/NI 2.29x), the price is dangerously detached from intrinsic worth. I see no scenario where a rational investor pays 46.65x for a hardware assembler without a durable, decades-long moat. I'd rather miss the upside than suffer a permanent loss of capital.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7214,
+      "completion_tokens": 1148,
+      "total_tokens": 8362,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 613
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 7086
+    }
+  },
+  "burry": {
+    "signal": "bearish",
+    "confidence": 85,
+    "expert": "Michael Burry",
+    "verdict": "{\n  \"ANALYSIS PROCESS\": \"Reviewing the cross-examination, most experts are bearish or neutral, with only Druckenmiller bullish based on momentum. The facts are clear: Graham Number NT$238 vs market NT$1325 gives zero asset-based margin of safety. Even the optimistic DCF at 20% growth yields NT$1267, just below price. The April revenue slowdown to +4.6% YoY and -17.6% MoM is a classic early warning that the growth narrative is fraying. RSI 81.8 indicates a blow-off top, and Q4 operating margin dip to 19.96% from 22.83% shows margin pressure. PEG 2.33 means the stock is priced for perfection. With everyone piling in, this is exactly the kind of euphoric overvaluation that precedes a sharp correction. No new evidence from the panel changes my bearish stance; the bearish experts reinforce the fragility. I remain bearish with high conviction.\",\n  \"VERDICT\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 85,\n    \"reasoning\": \"At NT$1325, 8210.TW trades at 46.65x PE and 15.25x PB, both at year-highs. The Graham Number of NT$238 means the stock is 5.6x overvalued on tangible assets—a catastrophic downside if AI hype fades. April revenue growth decelerated to +4.6% YoY from +44.7% in March, and Q4 operating margin slipped to 19.96%, hinting that the growth story is already cracking. RSI 81.8 signals an extreme overbought condition, and the -17.6% MoM drop in April sales is a red flag. Even a generous DCF assuming 20% growth yields only NT$1267, leaving no margin of safety. PEG of 2.33 confirms that growth fails to justify the multiple. The AI server boom is fully priced, and any disappointment will trigger a severe compression. I see massive downside risk with limited upside, so I am firmly bearish.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 6997,
+      "completion_tokens": 1045,
+      "total_tokens": 8042,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 592
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6869
+    }
+  },
+  "buffett": {
+    "signal": "bearish",
+    "confidence": 75,
+    "expert": "Warren Buffett",
+    "verdict": "1. ANALYSIS PROCESS: As Warren Buffett, I first ask if server chassis manufacturing is within my circle of competence. While I understand the business model, the rapid technological shifts and reliance on a single AI demand cycle make its long‑term predictability poor. The financials show a strong return on equity of 32.12% and excellent cash‑flow quality (operating cash flow 2.29× net income), which argue for a good business. However, valuation is the decisive test. At a market price of NT$1,325, the trailing P/E of 46.65 and price/book of 15.25 are both at the top of their 12‑month ranges. My DCF model, even with aggressive 20% growth, yields an intrinsic value of only NT$1,267—below the current price, offering no margin of safety. The Graham Number of NT$238 exposes a catastrophic downside if reversion to mean occurs. RSI at 81.8 signals a speculative climax, and April revenue growth of just 4.6% YoY hints that the hypergrowth may be pausing. These facts align with the rule’s definition of “clearly overvalued,” which mandates a bearish stance.\n\n2. VERDICT: Signal: bearish, Confidence: 75. Reasoning: The business is sound with an ROE of 32.12% and operating cash flow 2.29 times net income, but the market price of NT$1,325 embeds extreme optimism. The P/E of 46.65 sits at the 12‑month high, and a DCF using a 20% growth rate still places intrinsic value at only NT$1,267, meaning the stock is already above fair value with no margin of safety. The Graham Number of NT$238 underscores the massive disconnect from tangible assets. The 57.55% one‑month surge and RSI of 81.8 indicate a technically overbought, momentum‑driven bubble. April’s revenue deceleration to +4.6% YoY and –17.6% MoM suggests growth linearity is broken. While management appears competent, the price offers no protection against permanent capital loss, making this a clear avoid.",
+    "tokens": {
+      "prompt_tokens": 7062,
+      "completion_tokens": 1534,
+      "total_tokens": 8596,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1071
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6934
+    }
+  },
+  "bullish": {
+    "signal": "neutral",
+    "confidence": 60,
+    "expert": "Bullish Advocate",
+    "verdict": "{\n  \"analysis_process\": \"I start with the core bull case: 2025 revenue growth of 36.4% and Q1 2026 surging 71.1% YoY demonstrate exceptional demand. EPS accelerated from 5.53 to 8.61, and ROE of 32.12% with OCF/Net income of 2.29x signals quality. However, valuation is stretched: PE 46.65 (top of 12-month range), PB 15.25, PEG 2.33 using a 20% growth assumption that already factors in current momentum. The DCF fair value of NT$1,267 is barely below price, leaving no margin of safety. April revenue slowed to +4.6% YoY with a -17.6% MoM drop, and RSI at 81.8 warns of an overbought pullback. While the AI server chassis tailwind could accelerate growth beyond 20% and justify higher multiples, no concrete data confirms further acceleration. The institutional buying (net +3.25M shares) supports sentiment, but against the valuation backdrop, the risk-reward is balanced for a weekly horizon. The best-case scenario—a sustained Q2 surge beyond expectations—is plausible yet not priced in with certainty.\",\n  \"verdict\": {\n    \"signal\": \"neutral\",\n    \"confidence\": 60,\n    \"reasoning\": \"8210.TW boasts stellar fundamentals: 2025 revenue +36.4%, Q1 2026 +71.1%, EPS TTM NT$29.02, ROE 32.12%, and strong cash flows. These metrics would typically warrant a bullish view. However, valuation gauges are at extremes: PE 46.65 (12-month high), PB 15.25, PEG 2.33 assuming 20% growth. DCF suggests fair value NT$1,267, only 4.3% below current price, so upside is limited. Technically, RSI 81.8 is deeply overbought, and April’s +4.6% YoY revenue with a -17.6% MoM decline hints at temporary softness. While institutional buying and AI demand provide a tailwind, the near-term risk of a correction offsets the growth story. For a weekly outlook, the stock is fully priced, leaving a neutral risk-reward profile.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 6947,
+      "completion_tokens": 1601,
+      "total_tokens": 8548,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1100
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6819
+    }
+  },
+  "bearish": {
+    "signal": "bearish",
+    "confidence": 90,
+    "expert": "Bearish Advocate",
+    "verdict": "{\n  \"analysis_process\": \"As Bearish Advocate, I find the bearish consensus overwhelming. The Graham Number of NT$238 vs market price NT$1,325 indicates catastrophic overvaluation. April revenue growth collapsed to +4.6% YoY from March's +44.7%, and MoM fell -17.6%, signaling the AI growth narrative may be cracking. PE 46.65 and PB 15.25 are at year extremes. RSI 81.8 points to an imminent technical correction. Even aggressive DCF (20% growth) yields only NT$1,267, no margin of safety. The high-confidence bearish verdicts from Graham (95%), Burry (85%), and others reinforce that the downside risk far outweighs any remaining momentum. This is a classic overvalued, overbought momentum trap.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 90,\n    \"reasoning\": \"The stock exhibits extreme overvaluation: PE 46.65, PB 15.25, Graham Number only NT$238, an 82% premium. April revenue deceleration to +4.6% YoY (down from March +44.7%) and -17.6% MoM suggest growth cycles are turning. RSI at 81.8 is deeply overbought, and price is 24.5% above the 20-day MA. DCF at NT$1,267 provides zero margin of safety. Worst-case PE mean reversion to 20x could send the stock below NT$600. With no durable moat and a sudden revenue slowdown, the risk-reward is highly unfavorable for a weekly holding period. Strong bear consensus from multiple experts validates this view.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 6999,
+      "completion_tokens": 775,
+      "total_tokens": 7774,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 408
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6871
+    }
+  },
+  "taleb": {
+    "signal": "bearish",
+    "confidence": 80,
+    "expert": "Nassim Taleb",
+    "verdict": "{\n  \"analysis_process\": \"Re-examining the case as Taleb: 8210.TW exhibits extreme fragility. The stock's one-month surge of +57.55% and RSI of 81.8 indicate a blow-off top, not a stable trend. PE of 46.65 and PB of 15.25 are at 1-year extremes, implying high susceptibility to mean reversion. The Graham Number of NT$238 versus the market price of NT$1,325 reveals potential for an 82% drawdown if conservatively valued. DCF assumes 20% growth to reach NT$1,267, leaving zero margin of safety. April revenue deceleration to +4.6% YoY (from +71.1% in Q1) signals that the growth narrative is fragile—any further slowdown would collapse the multiple. The business lacks embedded optionality; it's a server chassis manufacturer with no convex payoff to volatility. No visible skin in the game data suggests insiders may not be aligned with outside shareholders. The asymmetry is stark: downside to NT$238-800 (depending on valuation framework) versus limited upside capped at DCF value. This is a quintessential fragile bet, not antifragile. Panel consensus from value-focused experts (Graham, Burry, Pabrai) strengthens the bearish conviction.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 80,\n    \"reasoning\": \"The stock trades at extreme fragility with PE 46.65 and PB 15.25, both at 1-year highs, making it vulnerable to a violent drawdown. The Graham Number of NT$238 versus market NT$1,325 implies an 82% overvaluation, exposing catastrophic tail risk. DCF intrinsic value of NT$1,267 offers no margin of safety, and April revenue growth collapsed to +4.6% YoY from Q1's +71.1%, indicating that the growth thesis may be cracking. RSI 81.8 signals an overbought momentum bubble prone to sharp reversals. The business lacks convexity or optionality—it's a linear manufacturer that benefits from AI demand but cannot gain asymmetrically from disorder. Skin-in-the-game indicators are absent, increasing agency risk. The payoff is heavily skewed to the downside: a 50-80% loss is plausible if AI spending slows, while further upside is negligible near NT$1,267. This is a classic fragile momentum trade, not a robust, antifragile investment.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7154,
+      "completion_tokens": 1104,
+      "total_tokens": 8258,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 577
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 7026
+    }
+  },
+  "jhunjhunwala": {
+    "signal": "bearish",
+    "confidence": 80,
+    "expert": "Rakesh Jhunjhunwala",
+    "verdict": "{\n  \"verdict\": \"bearish\",\n  \"confidence\": 80,\n  \"reasoning\": \"A 10x multibagger requires reaching a NT$1.66 trillion market cap, nearly impossible for a server chassis maker, even with AI tailwinds. Current valuation is extreme: PE 46.65x and PB 15.25x sit at the top of 1-year ranges, while Graham Number of NT$238 signals a 5.6x overvaluation with zero margin of safety. DCF with aggressive 20% growth only yields NT$1,267, already below the NT$1,325 price. April revenue growth slowed to just +4.6% YoY after Q1's +71.1%, hinting at growth deceleration. PEG of 2.33 confirms the price isn't justified by the 20% growth assumption. RSI at 81.8 warns of an imminent correction. Though ROE of 32.12% and strong cash flow are admirable, the risk-reward is unfavorable; a mean reversion to even a 25x PE would erase significant capital. I would wait for a pullback to at least the DCF value before considering a position.\"\n}",
+    "tokens": {
+      "prompt_tokens": 6849,
+      "completion_tokens": 921,
+      "total_tokens": 7770,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 666
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6721
+    }
+  },
+  "lynch": {
+    "signal": "bearish",
+    "confidence": 75,
+    "expert": "Peter Lynch",
+    "verdict": "{\n  \"signal\": \"bearish\",\n  \"confidence\": 75,\n  \"reasoning\": \"PEG of 2.33 decisively exceeds the 1.0 benchmark, indicating the stock is overpriced even assuming 20% EPS growth. PE of 46.65 requires near-perfect execution, yet April revenue dropped 17.6% MoM and QoQ EPS growth decelerated from 24.2% to 7.5%, signaling potential slowdown. The business is understandable—server chassis—but fast growers must have PEG below 1.0 to be attractive. DCF at NT$1,267 offers zero margin of safety below NT$1,325. ROE of 32.12% and FCF strength are positive, but they don't justify a growth multiple this extreme. With RSI at 81.8 and a 57.55% monthly surge, the risk of a sharp correction outweighs the remaining AI demand upside.\"\n}",
+    "tokens": {
+      "prompt_tokens": 6846,
+      "completion_tokens": 1251,
+      "total_tokens": 8097,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1046
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6718
+    }
+  },
+  "druckenmiller": {
+    "signal": "neutral",
+    "confidence": 60,
+    "expert": "Stanley Druckenmiller",
+    "verdict": "{\n  \"analysis_process\": \"The stock has explosive momentum, up 57.55% in one month with institutional buying, riding AI server demand. Revenue surged +71.1% YoY in Q1 2026, but April growth collapsed to +4.6% YoY and -17.6% MoM—a sharp deceleration that questions the sustainability of the acceleration narrative. PE 46.65 and PB 15.25 are at 12-month extremes, DCF fair value NT$1,267 offers negligible upside, and PEG 2.33 signals over-optimism. RSI 81.8 warns of a pullback. While macro tailwinds persist, the risk/reward is now asymmetric: limited upside versus substantial downside if growth fades. The checklist no longer points to clear acceleration; momentum might be peaking. This is a classic 'too far, too fast' scenario.\",\n  \"verdict\": {\n    \"signal\": \"neutral\",\n    \"confidence\": 60,\n    \"reasoning\": \"8210.TW's 2025 revenue +36.4% and Q1 2026 +71.1% YoY demonstrate strong AI server demand, but April's +4.6% YoY (-17.6% MoM) signals a sharp growth deceleration, undermining the acceleration thesis. Momentum is positive (MACD >0, price at all-time highs, institutional net buying 3.25M shares) yet RSI 81.8 warns of an extreme overbought condition. Valuation is stretched: PE 46.65 and PB 15.25 at year highs, DCF NT$1,267 just 4.3% below market, with PEG 2.33 indicating overvaluation relative to growth. The macro backdrop remains favorable, but the stock has already priced in perfection, leaving risk/reward symmetric at best. As a weekly outlook, the balance suggests stepping aside until either a pullback resets risk or new acceleration emerges.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7023,
+      "completion_tokens": 1299,
+      "total_tokens": 8322,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 882
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 7023
+    }
+  },
+  "wood": {
+    "signal": "neutral",
+    "confidence": 40,
+    "expert": "Cathie Wood",
+    "verdict": "{\n  \"analysis_process\": \"I examine 8210.TW through ARK's disruption lens. The company makes server chassis, a hardware component riding AI demand, but it is not a transformative platform. Revenue growth is strong (2025 +36.4%, Q1 2026 +71.1% YoY) and EPS trends upward (5.53→8.61), but the business lacks network effects, data moats, or exponential learning curves. TAM is constrained to server hardware, not a paradigm-shifting sector. Valuation at 46.65 PE, PEG 2.33, and RSI 81.8 indicate optimism is priced in. April revenue dipped 17.6% MoM, hinting at cyclicality. This fails the 'transformative technology + large TAM + accelerating growth + platform effects' criteria, so I stay neutral with low confidence.\",\n  \"verdict\": {\n    \"signal\": \"neutral\",\n    \"confidence\": 40,\n    \"reasoning\": \"8210.TW is a server chassis manufacturer benefiting from AI infrastructure buildout, with revenue growth of 71.1% YoY in Q1 2026 and annual growth of 36.4% in 2025. However, from ARK's perspective, the business is incremental, not disruptive: no platform effects, network effects, or data moats. TAM is limited to server hardware, not a massive transformative addressable market. Valuation at 46.65 PE and PEG 2.33 suggests high growth is already priced in, while RSI 81.8 warns of short-term overheating. The April revenue decline of 17.6% MoM underscores cyclical risk. Without exponential learning curves or a platform model, it does not meet our core thesis. Near-term momentum is strong, but long-term disruption potential is low, justifying a neutral stance at 40% confidence.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 7033,
+      "completion_tokens": 913,
+      "total_tokens": 7946,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 518
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6905
+    }
+  },
+  "fisher": {
+    "signal": "neutral",
+    "confidence": 55,
+    "expert": "Phil Fisher",
+    "verdict": "{\n  \"signal\": \"neutral\",\n  \"confidence\": 55,\n  \"reasoning\": \"Revenue growth of 36.4% in 2025 and 71.1% YoY in Q1 2026 is impressive, but quarterly EPS growth decelerated from 24.2% QoQ in Q2 to 7.5% in Q4, and April revenue fell 17.6% MoM with only 4.6% YoY, raising doubts about momentum. Gross margins held near 30%, yet Q4 operating margin dipped to 19.96% from prior quarters' ~22.8%, signaling possible cost pressures. ROE of 32.12% and strong cash flow (OCF 2.29x net income) show quality, but no scuttlebutt or R&D data confirm a durable moat. At PE 46.65, the stock already discounts sustained hyper-growth, and DCF suggests fair value near NT$1,267, leaving no margin of safety. While AI tailwinds are real, the recent deceleration and stretched valuation warrant a wait-and-see stance rather than commitment.\"\n}",
+    "tokens": {
+      "prompt_tokens": 6857,
+      "completion_tokens": 1580,
+      "total_tokens": 8437,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1338
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6729
+    }
+  },
+  "graham": {
+    "signal": "bearish",
+    "confidence": 95,
+    "expert": "Ben Graham",
+    "verdict": "{\n  \"ANALYSIS PROCESS\": \"I apply Graham's checklist: Earnings stability likely good given 10-year dividend record, but financial strength is subpar with current ratio 1.52 (below 2) and D/E 1.12. Critical is valuation: PE is 46.65 (vs 15 max), PB is 15.25 (vs 1.5 max), and Graham Number is only NT$238 vs price NT$1,325—a 5.6x gap, zero margin of safety. Dividend yield is mere 0.57%. Even if business quality is high, the price offers no protection against permanent loss. This is pure speculation, not an intelligent investment.\",\n  \"VERDICT\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 95,\n    \"reasoning\": \"PE of 46.65 and PB of 15.25 are both multiples above Graham's acceptable levels (PE<15, PB<1.5). Graham Number of NT$238.16 is only 18% of the market price of NT$1,325, indicating a catastrophic overvaluation with no margin of safety. Current ratio of 1.52 falls short of the 2.0 benchmark, and the 0.57% dividend yield provides negligible income. While the company has grown rapidly, these valuation extremes indicate a speculation driven by market enthusiasm, not a sound investment. A true Graham investor would avoid this stock entirely due to the risk of permanent capital loss.\"\n  }\n}",
+    "tokens": {
+      "prompt_tokens": 6993,
+      "completion_tokens": 740,
+      "total_tokens": 7733,
+      "prompt_tokens_details": {
+        "cached_tokens": 128
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 424
+      },
+      "prompt_cache_hit_tokens": 128,
+      "prompt_cache_miss_tokens": 6865
+    }
+  }
+}

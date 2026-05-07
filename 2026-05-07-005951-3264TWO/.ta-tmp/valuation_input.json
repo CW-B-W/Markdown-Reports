@@ -1,0 +1,17 @@
+{
+  "ticker": "3264",
+  "eps": 6.68,
+  "bvps": 41.30,
+  "shares_outstanding": 490170076,
+  "curr_price": 226.0,
+  "current_assets": 9161378000,
+  "total_liabilities": 15390809000,
+  "net_income": 3163323000,
+  "depreciation": 820958000,
+  "maintenance_capex": 1330081000,
+  "working_capital_change": 0,
+  "fcff": 341150000,
+  "growth_rate": 0.12,
+  "pe_ratio": 35.04,
+  "eps_growth_rate": 0.15
+}

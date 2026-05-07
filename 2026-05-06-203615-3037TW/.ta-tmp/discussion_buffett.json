@@ -1,0 +1,90 @@
+{
+  "expert_key": "buffett",
+  "original_verdict": "{\n  \"analysis_process\": \"Step through Buffett's checklist: 1) Circle of competence: PCB/IC substrate industry is capital-intensive and cyclical, not a simple predictable business. 2) Moat: ABF substrate has some technology moat but intense competition, narrow and not durably wide. 3) Management: heavy capex leads to -217B TTM FCF, aggressive growth focus. 4) Financial strength: net cash NT$215B, D/E 0.33, but ROE only 10.27%. 5) Valuation: P/E 126x, P/B 12x, Graham Number NT$106.92 vs price NT$858, DCF NT$5.18, PEG 8.41—no margin of safety. 6) Long-term prospects: demand growth exists but fully priced in. Conclusion: business improving but stock clearly overvalued. Bearish signal triggered.\",\n  \"verdict\": {\n    \"signal\": \"bearish\",\n    \"confidence\": 95,\n    \"reasoning\": \"Unimicron's Q1 2026 EPS of NT$3.28 and revenue growth of 24.5% demonstrate improving fundamentals, but the stock has surged 65% in one month to NT$858, driving P/E to 126.18 and P/B to 12.02—levels completely detached from intrinsic value. The Graham Number of NT$106.92 implies the price is 8x higher than a conservative valuation, and even optimistic DCF yields only NT$5.18 per share. Owner earnings multiple is 116.9x. With an RSI of 78.4, the stock is technically overbought, and foreign investors have been net sellers, reducing their stake from 43.25% to 38.37%. While the balance sheet is strong (net cash NT$215.1B), the negative TTM free cash flow of -217B and negligible 0.23% dividend yield offer no protection. The margin of safety is deeply negative; a classic example of a good company at an unreasonable price, warranting a strong bearish stance.\"\n  }\n}",
+  "all_verdicts": [
+    {
+      "expert": "Peter Lynch",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "PEG ratio of 8.41 (PE 126.18x / 15% growth) is far beyond Lynch’s 2.0 threshold, signaling severe overvaluation. Graham Number is just NT$106.92 versus market price NT$858, an 8x gap. FCF remains nega"
+    },
+    {
+      "expert": "Ben Graham",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "The PE of 126.18 and PB of 12.02 are drastically above Graham's limits. Graham Number of NT$106.92 implies a 702% overvaluation. NCAV is negative, providing no asset protection. Current ratio of 1.32 "
+    },
+    {
+      "expert": "Bearish Advocate",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "The stock is dangerously overvalued with P/E 126x, PB 12x, and PEG 8.4 – all screaming extreme. Graham Number NT$106.92 means 702% premium to rational value. RSI 78 signals imminent mean-reversion aft"
+    },
+    {
+      "expert": "Warren Buffett",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "Unimicron's Q1 2026 EPS of NT$3.28 and revenue growth of 24.5% demonstrate improving fundamentals, but the stock has surged 65% in one month to NT$858, driving P/E to 126.18 and P/B to 12.02—levels co"
+    },
+    {
+      "expert": "Mohnish Pabrai",
+      "signal": "bearish",
+      "confidence": 95,
+      "reasoning": "Industry is hot, not distressed, with ABF recovery hype. Despite strong Q1 EPS 3.28 and net cash NT$21.5B, valuation is extreme: PE 126.18, PB 12.02, Graham Number NT$106.92 (price 8x higher). Owner e"
+    },
+    {
+      "expert": "Charlie Munger",
+      "signal": "bearish",
+      "confidence": 90,
+      "reasoning": "At a PE of 126x and a Graham Number of NT$106.92 versus price NT$858—an 8x overvaluation—the stock is wildly overpriced. Even with a 15% EPS growth rate, PEG is 8.4, far above sanity. RSI at 78.4 indi"
+    },
+    {
+      "expert": "Bill Ackman",
+      "signal": "bearish",
+      "confidence": 88,
+      "reasoning": "Unimicron trades at a staggering 126x PE, 12x PB, and PEG of 8.4—all extreme levels with zero margin of safety. The Graham Number of NT$106.92 implies a 702% overvaluation, and DCF yields only NT$5.18"
+    },
+    {
+      "expert": "George Soros",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "The stock is in a late-stage boom with extreme valuation: PE 126x, PB 12x, PEG 8.4, RSI 78.4. Price surged 65% in one month to NT$858, yet fundamentals, while improving sequentially (EPS NT$3.28, reve"
+    },
+    {
+      "expert": "Ray Dalio",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "PE of 126x and P/B of 12x are at historic extremes, far exceeding the Graham Number of NT$106.92. RSI at 78.4 indicates severe overbought conditions after a 65% monthly surge. Foreign investors have r"
+    },
+    {
+      "expert": "Michael Burry",
+      "signal": "bearish",
+      "confidence": 85,
+      "reasoning": "At NT$858, the stock trades at 126x trailing PE, a 4.7x multiple expansion from 27x in just 12 months. Graham Number is NT$107, meaning the market price is 8x the maximum value Graham would pay. Owner"
+    },
+    {
+      "expert": "Bullish Advocate",
+      "signal": "bearish",
+      "confidence": 83,
+      "reasoning": "The monthly outlook is bearish. Revenue growth of 24.5% YoY and Q1 EPS of 3.28 demonstrate impressive operating momentum, but the stock's valuation is stretched beyond historical extremes: PE of 126x "
+    },
+    {
+      "expert": "Phil Fisher",
+      "signal": "neutral",
+      "confidence": 60,
+      "reasoning": "The business is transforming into a growth powerhouse: revenue +24.5% YoY, net margin surged to 14.37% from near zero, and heavy capex (TTM -64.5B) signals deep commitment to ABF substrate leadership."
+    },
+    {
+      "expert": "Cathie Wood",
+      "signal": "bearish",
+      "confidence": 55,
+      "reasoning": "Unimicron’s ABF substrate business benefits from AI-driven demand, but it represents incremental innovation in manufacturing, not a platform-based disruptive technology. The addressable market remains"
+    },
+    {
+      "expert": "Stanley Druckenmiller",
+      "signal": "neutral",
+      "confidence": 55,
+      "reasoning": "The investment thesis is torn between accelerating growth (EPS NT$3.28, revenue +24.5% YoY) and extreme overvaluation with deteriorating flows. PE of 126x and PEG of 8.4 discount perfection, while for"
+    }
+  ]
+}
